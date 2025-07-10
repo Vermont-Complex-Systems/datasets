@@ -87,6 +87,5 @@
         </div>
       {/each}
     </div>
-
-    
+  </main>  
 </div>
