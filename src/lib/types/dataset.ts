@@ -29,7 +29,8 @@ export interface UVMProfessor {
   notes: string;
 }
 
-export interface UVMDepartmentCollege {
+export interface UVMDepartment {
   department: string;
   college: string;
+  category: string;
 }
