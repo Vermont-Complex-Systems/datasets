@@ -6,36 +6,24 @@ export const datasets: Dataset[] = [
     id: 'uvm-professors-2023',
     name: 'UVM Professors 2023',
     description: 'University of Vermont professors data including research groups, publications, and departmental information',
-    url: 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/uvm_profs_2023.csv',
-    source: 'GitHub',
+    url: '/data/uvm_profs_2023.csv',
+    source: 'Vermont Complex Systems',
     tags: ['csv', 'university', 'professors', 'research', 'uvm'],
-    status: 'unknown'
+    contentType: 'text/csv',
+    format: 'CSV',
+    size: '47KB',
+    lastUpdated: '2024-07-10'
   },
   {
-    id: 'jsonplaceholder-posts',
-    name: 'JSONPlaceholder Posts',
-    description: 'Fake REST API for testing and prototyping',
-    url: 'https://jsonplaceholder.typicode.com/posts',
-    source: 'JSONPlaceholder',
-    tags: ['api', 'json', 'testing'],
-    status: 'unknown'
-  },
-  {
-    id: 'github-api',
-    name: 'GitHub API',
-    description: 'GitHub REST API v3',
-    url: 'https://api.github.com',
-    source: 'GitHub',
-    tags: ['api', 'github', 'development'],
-    status: 'unknown'
-  },
-  {
-    id: 'httpbin',
-    name: 'HTTPBin',
-    description: 'HTTP request and response service',
-    url: 'https://httpbin.org/status/200',
-    source: 'HTTPBin',
-    tags: ['api', 'testing', 'http'],
-    status: 'unknown'
+    id: 'uvm-departments-colleges',
+    name: 'UVM Departments to Colleges',
+    description: 'Mapping of University of Vermont departments to their parent colleges',
+    url: '/data/uvm_depts_to_colleges.csv',
+    source: 'Vermont Complex Systems',
+    tags: ['csv', 'university', 'departments', 'colleges', 'uvm', 'mapping'],
+    contentType: 'text/csv',
+    format: 'CSV',
+    size: '2KB',
+    lastUpdated: '2024-07-10'
   }
 ];

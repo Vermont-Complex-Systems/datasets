@@ -1,33 +1,19 @@
 // src/lib/types/dataset.ts
 
-export type DatasetStatus = 'available' | 'unavailable' | 'checking' | 'unknown';
-
 export interface Dataset {
   id: string;
   name: string;
   description: string;
   url: string;
-  source: string; // e.g., "GitHub", "Kaggle", "API endpoint"
+  source: string;
   tags: string[];
-  lastChecked?: Date;
-  status: DatasetStatus;
-  responseTime?: number; // in milliseconds
-  // Metadata for external tools like Dagster
-  fileSize?: number; // in bytes
-  lastModified?: Date;
-  contentType?: string;
-  etag?: string; // for caching/change detection
+  contentType: string;
+  format: 'CSV' | 'JSON' | 'TSV' | 'XLSX';
+  size?: string; // Human readable size like "48KB"
+  lastUpdated?: string; // ISO date string
 }
 
-export interface DatasetCheckResult {
-  id: string;
-  status: DatasetStatus;
-  responseTime?: number;
-  error?: string;
-  checkedAt: Date;
-}
-
-// Specific dataset schemas
+// Specific dataset schemas for type safety
 export interface UVMProfessor {
   payroll_name: string;
   position: string;
@@ -43,17 +29,7 @@ export interface UVMProfessor {
   notes: string;
 }
 
-// API response types
-export interface DatasetMetadataResponse {
-  id: string;
-  name: string;
-  description: string;
-  url: string;
-  status: DatasetStatus;
-  lastModified?: string;
-  fileSize?: number;
-  contentType?: string;
-  etag?: string;
-  checkedAt: string;
-  error?: string;
+export interface UVMDepartmentCollege {
+  department: string;
+  college: string;
 }
