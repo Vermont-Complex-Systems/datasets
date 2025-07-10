@@ -12,7 +12,7 @@ export const datasets = [
     id: 'uvm-departments',
     name: 'UVM Departments to Colleges',
     description: 'Mapping of University of Vermont departments to their parent colleges',
-    url: 'https://vermont-complex-systems.github.io/datasets/data/uvm_deparments.csv',
+    url: 'https://vermont-complex-systems.github.io/datasets/data/uvm_departments.csv',
     format: 'CSV',
     tags: ['departments', 'colleges', 'uvm']
   }
