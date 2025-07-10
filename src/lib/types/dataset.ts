@@ -12,6 +12,11 @@ export interface Dataset {
   lastChecked?: Date;
   status: DatasetStatus;
   responseTime?: number; // in milliseconds
+  // Metadata for external tools like Dagster
+  fileSize?: number; // in bytes
+  lastModified?: Date;
+  contentType?: string;
+  etag?: string; // for caching/change detection
 }
 
 export interface DatasetCheckResult {
@@ -36,4 +41,19 @@ export interface UVMProfessor {
   group_url: string;
   first_pub_year: number;
   notes: string;
+}
+
+// API response types
+export interface DatasetMetadataResponse {
+  id: string;
+  name: string;
+  description: string;
+  url: string;
+  status: DatasetStatus;
+  lastModified?: string;
+  fileSize?: number;
+  contentType?: string;
+  etag?: string;
+  checkedAt: string;
+  error?: string;
 }
