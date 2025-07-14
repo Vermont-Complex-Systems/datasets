@@ -8,8 +8,8 @@
 		<div class="footer-section">
 			<h3>About</h3>
 			<ul>
-				<li><a href="{base}/about">Our Team</a></li>
-				<li><a href="{base}/blog">Blog</a></li>
+				<li><a href="https://vermont-complex-systems.github.io/complex-stories/about">Our Team</a></li>
+				<li><a href="https://vermont-complex-systems.github.io/complex-stories/blog">Blog</a></li>
 			</ul>
 		</div>
 		
