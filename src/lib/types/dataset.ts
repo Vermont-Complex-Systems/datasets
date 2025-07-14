@@ -5,8 +5,9 @@ export interface Dataset {
   name: string;
   description: string;
   url: string;
+  display: string;
   source: string;
-  tags: string[];
+  keywords: string[];
   contentType: string;
   format: 'CSV' | 'JSON' | 'TSV' | 'XLSX';
   size?: string; // Human readable size like "48KB"
