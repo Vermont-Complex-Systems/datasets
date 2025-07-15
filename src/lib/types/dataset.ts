@@ -15,8 +15,9 @@ export interface Dataset {
 }
 
 // Specific dataset schemas for type safety
-export interface UVMProfessor {
+export interface ResearchGroups {
   payroll_name: string;
+  payroll_year: number;
   position: string;
   oa_display_name: string;
   is_prof: boolean;
@@ -27,11 +28,14 @@ export interface UVMProfessor {
   oa_uid: string;
   group_url: string;
   first_pub_year: number;
+  inst_ipeds_id: number;
   notes: string;
 }
 
-export interface UVMDepartment {
+export interface Deparment {
   department: string;
   college: string;
   category: string;
+  year: number;
+  inst_ipeds_id: number;
 }
