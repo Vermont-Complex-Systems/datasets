@@ -27,7 +27,7 @@
 </svelte:head>
 
 <Meta 
-  title="Scrollytelling Stories"
+  title="Datasets"
   description="Scientific data essays that uncover the challenges of computational science."
   {preloadFont}
 />
