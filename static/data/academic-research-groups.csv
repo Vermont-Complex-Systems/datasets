@@ -1,518 +1,518 @@
 payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,host_dept,has_research_group,group_size,oa_uid,group_url,first_pub_year,inst_ipeds_id,notes,last_updated
-"Ballif,Bryan",2023,,,1,1,Biology,1.0,,a5000554558,https://app.academiclabs.com/research_group/e3KzQstuwzFs,,231174,,2024-01-01
-"Garavan, Hugh",2023,Professor,Hugh Garavan,1,1,Psychological Science,1.0,,A5001775538,https://nervelab.w3.uvm.edu,,231174,,2024-01-01
-"Danforth, Christopher",2023,Professor,Christopher M. Danforth,1,1,Mathematics and Statistics,1.0,,A5002034958,https://compstorylab.org/about/,,231174,,2024-01-01
-"Ament, Joseph",2023,Assistant Professor,Joe Ament,1,1,Community Development and Applied Economics,0.0,,A5002226064,,,231174,,2024-01-01
-"Neher Weicht, Deborah",2023,Professor,,1,0,"Agriculture, Landscape, and Environment",1.0,,a5002326354,https://site.uvm.edu/dneher/?page_id=32,,231174,,2024-01-01
-"Cannizzaro,Michael",2023,Associate Professor,,1,1,Communication Sciences and Disorders,0.0,,a5002845482,,,231174,,2024-01-01
-"Lansing, Amy",2023,Assistant Professor,,1,0,Psychological Science,1.0,,a5003569149,https://site.uvm.edu/hughlanslab/?page_id=8,,231174,,2024-01-01
-"Cockrell,Robert",2023,Assistant Professor,,1,1,Surgery,1.0,,a5005224275,https://www.med.uvm.edu/ancockrelllab/about,,231174,,2024-01-01
-"Chevalier, Samuel",2023,Assistant Professor,,1,1,Electrical and Biomedical Engineering,1.0,,a5005388341,,,231174,,2024-01-01
-"Duffaut Espinosa, Luis",2023,Assistant Professor,Luis A. Duffaut Espinosa,1,1,Electrical and Biomedical Engineering,1.0,,A5005494593,https://www.uvm.edu/cems/ebe/autonomous-and-intelligent-systems-research-air-lab,,231174,,2024-01-01
-"Cuneo, Terence",2023,Professor,Terence Cuneo,1,1,Philosophy,0.0,,A5005500349,,,231174,,2024-01-01
-"Vigoreaux,Jim",2023,Professor,,1,1,Biology,1.0,,a5005522625,https://www.researchgate.net/lab/Jim-O-Vigoreaux-Lab,,231174,,2024-01-01
-"Hinkelman,Kathryn ",2023,Assistant Professor,,1,0,Civil and Environmental Engineering,1.0,,a5005762300,https://www.theseelab.org/,,231174,"for some reasons, she wasn't in the payroll",2024-01-01
-"Huston, Christopher",2023,Professor,,1,1,Medicine,1.0,,a5005985454,http://www.med.uvm.edu/vciid/lab_huston,,231174,,2024-01-01
-"Keeton, William",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1.0,,a5006901996,,,231174,he says that he directs the UVM Carbon Dynamics Lab in his CV.,2024-01-01
-"Borra, Antonello",2023,Professor,,1,1,French and Italian,0.0,,a5007594505,,,231174,,2024-01-01
-"Dewoolkar,Mandar",2023,Professor,Mandar M. Dewoolkar,1,1,Civil and Environmental Engineering,1.0,,A5008146559,https://site.uvm.edu/mdewoolk/,,231174,,2024-01-01
-"Castro, Eliana",2023,Assistant Professor,Eliana Castro,1,0,Education,0.0,,A5008683066,,,231174,,2024-01-01
-"Hammack,Sayamwong",2023,Professor,,1,1,Psychological Science,1.0,,a5008847401,https://www.researchgate.net/profile/Sayamwong-Hammack,,231174,,2024-01-01
-"Aiyar, Anaka",2023,Assistant Professor,,1,1,Community Development and Applied Economics,0.0,,a5008985646,,2011.0,231174,,2024-01-01
-"Kirkpatrick,Beth",2023,Professor,Beth D. Kirkpatrick,1,0,Microbiology and Molecular Genetics,1.0,,A5010472783,https://www.med.uvm.edu/tgircobre/home,,231174,,2024-01-01
-"Blom, Deborah",2023,Associate Professor,Deborah E. Blom,1,0,Anthropology,0.0,,A5010615491,,,231174,,2024-01-01
-"Fisher, Brendan",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1.0,,a5010739172,https://blog.uvm.edu/bfisher-ecos/,,231174,,2024-01-01
-"Bentil,Daniel",2023,Associate Professor,,1,1,Mathematics and Statistics,0.0,,a5010744577,,,231174,,2024-01-01
-"Carthew,Jessica",2023,Associate Professor,Jessica DeMink-Carthew,1,0,Education,0.0,,A5010948910,,,231174,,2024-01-01
-"Beam, Emily",2023,Associate Professor,,1,0,Economics,0.0,,a5011360985,,,231174,,2024-01-01
-"Dupigny-Giroux,Lesley-Ann",2023,Professor,Lesley‐Ann Dupigny‐Giroux,1,0,Geography and Geosciences,0.0,,A5012783921,,,231174,,2024-01-01
-"Cepeda-Benito,Antonio",2023,Professor,,1,1,Grossman School of Business,1.0,,a5013355577,https://www.uvm.edu/~ccpsych/theteam.html,,231174,,2024-01-01
-"Bates,Jason",2023,Professor,,1,1,Medicine,1.0,,a5014570718,https://www.researchgate.net/lab/Jason-Bates-Lab,1989.0,231174,,2024-01-01
-"Dauerman, Harold",2023,Professor,,1,1,Medicine; Surgery,0.0,,a5014700972,,,231174,,2024-01-01
-"Alexander,Sarah",2023,Associate Professor,,1,0,English,0.0,,a5014723293,,,231174,,2024-01-01
-"Callahan, Rebecca",2023,Professor,,1,0,Education,0.0,,a5014853497,,,231174,,2024-01-01
-"Arel,Barbara",2023,Associate Professor,Barbara Arel,1,0,Grossman School of Business,0.0,,A5014963201,,,231174,,2024-01-01
-"Parker, Bruce",2023,Professor,,1,1,"Agriculture, Landscape, and Environment",1.0,,a5015290549,https://www.uvm.edu/~entlab/,,231174,,2024-01-01
-"Higgins,Stephen",2023,Professor,,1,1,Psychological Science,1.0,,a5015787795,https://www.researchgate.net/lab/Stephen-T-Higgins-Lab,,231174,,2024-01-01
-"Doiron, Amber",2023,Assistant Professor,Amber L. Doiron,1,0,Electrical and Biomedical Engineering,1.0,,A5016061803,https://site.uvm.edu/bnb/,,231174,,2024-01-01
-"Chiu, Angeline",2023,Associate Professor,,1,0,Classics,0.0,,a5016379063,,,231174,,2024-01-01
-"Danks,Cecilia",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,0.0,,a5016511835,,,231174,,2024-01-01
-"Belarmino,Emily",2023,Assistant Professor,Emily H. Belarmino,1,0,Nutrition and Food Sciences,0.0,,A5016548616,,,231174,,2024-01-01
-"Stanley, Molly",2023,Assistant Professor,,1,0,Biology,1.0,,a5016604588,https://mstanleylab.weebly.com/people.html,2013.0,231174,,2024-01-01
-"Conroy,Nicole",2023,Assistant Professor,Nicole E. Conroy,1,0,"Counseling, Human Development and Family Science",0.0,,A5017116907,,2013.0,231174,,2024-01-01
-"Conner,David",2023,Professor,David S. Conner,1,1,Community Development and Applied Economics,0.0,,A5019140171,,,231174,,2024-01-01
-"Dumas,Julie",2023,Professor,Julie A. Dumas,1,0,Psychiatry,1.0,,A5019605511,,,231174,,2024-01-01
-"Feng, Yuanyuan",2023,Assistant Professor,,1,0,Computer Science,1.0,,a5020275989,https://yuanyuanfeng.com/research/,,231174,"no mention of groups, but we know Yuanyuan as quite a few students.",2024-01-01
-"Janssen-Heininger, Yvonne",2023,Professor,,1,0,Pathology and Laboratory Medicine,1.0,,a5020783528,https://www.med.uvm.edu/pathology/janssen-lab_new,,231174,,2024-01-01
-"Bonney, Elizabeth",2023,Professor,Elizabeth A. Bonney,1,0,"Obstetrics, Gynecology and Reproductive Sciences",1.0,,A5023419188,https://www.med.uvm.edu/obgyn/research/lab_bonney,,231174,,2024-01-01
-"Cushman,Mary",2023,Professor,,1,0,Medicine,0.0,,a5023858070,,,231174,no group but co-director of https://www.uvm.edu/larnermed/vccbh/about-vccbh,2024-01-01
-"Single,Richard",2023,Associate Professor,Richard M. Single,1,1,Mathematics and Statistics,0.0,,A5024849718,,,231174,,2024-01-01
-"Bernstein, Ira",2023,Professor,,1,1,"Obstetrics, Gynecology and Reproductive Sciences",1.0,,a5025702790,https://www.med.uvm.edu/obgyn/bernsteinlab,1987.0,231174,,2024-01-01
-"Jangraw, David",2023,Assistant Professor,David C. Jangraw,1,1,Electrical and Biomedical Engineering,1.0,,A5026763824,https://www.uvm.edu/~brainlab/index.html#team,2007.0,231174,,2024-01-01
-"Clougherty,Dennis",2023,Professor,,1,1,Physics,0.0,,a5026988863,,,231174,,2024-01-01
-"Botten, Jason",2023,Professor,,1,1,Medicine,0.0,,a5027340620,,,231174,,2024-01-01
-"Fanslow, Yolanda",2023,Professor,Yolanda H. Chen,1,0,Biology,1.0,9.0,A5029745678,https://blog.uvm.edu/yfanslow/people/,,231174,,2024-01-01
-"Bonifield,Carolyn",2023,Associate Professor,,1,0,Grossman School of Business,0.0,,a5029861842,,,231174,,2024-01-01
-"Cahan,Sara",2023,Associate Professor,Sara Helms Cahan,1,0,Biology,1.0,,A5029896488,http://shelmscahan.github.io/Index2.html,,231174,,2024-01-01
-"Abaied,Jamie",2023,Associate Professor,Jamie L. Abaied,1,0,Psychological Science,1.0,,A5030384293,,,231174,,2024-01-01
-"Deming, Paula",2023,Associate Professor,,1,1,Biomedical and Health Sciences,1.0,,a5030675455,,,231174,,2024-01-01
-"Feldman,Jan",2023,Professor,Jan Feldman,1,0,Political Science,0.0,,A5030981885,,,231174,,2024-01-01
-"Lian,Jane",2023,Professor,,1,0,Biochemistry,1.0,,a5031362021,https://www.med.uvm.edu/biochemistry/steinlianlab/principalinvesigators,,231174,,2024-01-01
-"Bernard,Emily",2023,Professor,Emily Bernard,1,0,English,0.0,,A5031469576,,,231174,,2024-01-01
-"Scarborough,Matthew",2023,Assistant Professor,,1,1,Civil and Environmental Engineering,1.0,,a5031617048,https://www.emerglab.org/home/our-team,,231174,,2024-01-01
-"Mendez, Victor",2023,Professor,,1,1,"Agriculture, Landscape, and Environment",1.0,,a5031789321,https://www.researchgate.net/lab/V-Ernesto-Mendez-Lab,,231174,,2024-01-01
-"Cole,Bernard",2023,Professor,Bernard F. Cole,1,1,Mathematics and Statistics,0.0,,A5033544452,,2000.0,231174,,2024-01-01
-"Angelopoulos, Theodore",2023,Professor,Theodore J. Angelopoulos,1,1,Rehabilitation and Movement Science,0.0,,A5033621367,,,231174,,2024-01-01
-"Francklyn, Christopher",2023,Professor,,1,1,Biochemistry,1.0,,a5033892718,https://www.med.uvm.edu/biochemistry/lab_francklyn_research,,231174,,2024-01-01
-"Bishop-von Wettberg,Eric",2023,Professor,Eric J. B. von Wettberg,1,1,"Agriculture, Landscape, and Environment",1.0,,A5034453011,https://ebishopv.wixsite.com/cropdomesticationlab/people,,231174,,2024-01-01
-"Adair,Elizabeth",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,1.0,,a5034560073,https://adairlab.weebly.com/team.html,,231174,,2024-01-01
-"Hebert-Dufresne,Laurent",2023,Associate Professor,Laurent Hébert‐Dufresne,1,1,Computer Science,1.0,,A5035455593,https://joint-lab.github.io/people,,231174,,2024-01-01
-"Price,Matthew",2023,Professor,Matthew Price,1,1,Psychological Science,1.0,,A5036140974,https://www.crestresearch.org//,2006.0,231174,,2024-01-01
-"Cheung, Katharine",2023,Assistant Professor,,1,0,Medicine,0.0,,a5036833355,,,231174,,2024-01-01
-"Badireddy,Appala Raju",2023,Associate Professor,Appala Raju Badireddy,1,1,Civil and Environmental Engineering,1.0,,A5037146310,https://arbadireddy.wixsite.com/uvmcee/members,,231174,,2024-01-01
-"Howe, Alan",2023,Professor,,1,1,Pharmacology,1.0,,a5037781469,https://www.uvm.edu/~howelab/people.html,1992.0,231174,,2024-01-01
-"Ou, Yangguang",2023,Assistant Professor,,1,0,Chemistry,1.0,,a5040072620,https://theoulab.squarespace.com/team-1,,231174,,2024-01-01
-"Beynnon,Bruce",2023,Professor,,1,1,Orthopaedics and Rehabilitation,0.0,,a5040283299,https://www.researchgate.net/lab/Bruce-Beynnon-Lab,,231174,,2024-01-01
-"Dempsey, Stephen",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,a5040491225,,,231174,,2024-01-01
-"Dodds, Peter",2023,Professor,Peter Sheridan Dodds,1,1,Mathematics and Statistics,1.0,,A5040821463,https://compstorylab.org/about/,1999.0,231174,,2024-01-01
-"Lockwood,Brent",2023,Associate Professor,,1,1,Biology,1.0,,a5041011145,https://lockwoodlab.weebly.com/people.html,2004.0,231174,,2024-01-01
-"Perdrial,Julia",2023,Associate Professor,,1,0,Geography and Geosciences,1.0,,a5041409879,http://www.juliaperdrial.com/people.html,,231174,,2024-01-01
-"Hoza,Betsy",2023,Professor,,1,0,Psychological Science,1.0,,a5042340308,https://www.uvm.edu/catsmove/faculty-and-graduate-students,,231174,she calls it a research group,2024-01-01
-"Amiel,Eyal",2023,Associate Professor,Eyal Amiel,1,1,Biomedical and Health Sciences,1.0,,A5042866760,,,231174,,2024-01-01
-"Frietze, Seth",2023,Associate Professor,,1,1,Biomedical and Health Sciences,1.0,,a5042896751,https://site.uvm.edu/frietzelab/?page_id=26,,231174,,2024-01-01
-"Chiang,Kevin",2023,Professor,,1,1,Grossman School of Business,0.0,,a5044029164,,,231174,,2024-01-01
-"Hondal, Robert",2023,Professor,,1,1,Biochemistry,1.0,,a5045212720,https://www.med.uvm.edu/biochemistry/lab_hondal_labmembers,,231174,,2024-01-01
-"Crock,John",2023,Associate Professor,John G. Crock,1,1,Anthropology,0.0,,A5046250286,,,231174,,2024-01-01
-"Bruce,Emily",2023,Assistant Professor,,1,1,Microbiology and Molecular Genetics,1.0,,a5046430560,https://emilybrucelab.com/people/,2010.0,231174,,2024-01-01
-"deRosset, Louis",2023,Professor,,1,1,Philosophy,0.0,,a5046801350,,,231174,,2024-01-01
-"Fox, Kathryn",2023,Professor,,1,0,Sociology,1.0,,a5047152658,https://www.researchgate.net/lab/Kathryn-J-Fox-Lab,,231174,,2024-01-01
-"Brouwer Burg,Marieka",2023,Assistant Professor,,1,0,Anthropology,0.0,,a5048480750,,,231174,,2024-01-01
-"Perdrial,Nicolas",2023,Assistant Professor,,1,1,Geography and Geosciences,1.0,,a5048613602,https://nicolasperdrial.weebly.com/lab-and-people.html,,231174,,2024-01-01
-"Brennan, Vicki",2023,Associate Professor,Vicki L. Brennan,1,0,Religion,0.0,,A5049222482,,,231174,,2024-01-01
-"Boyson,Jonathan",2023,Professor,,1,1,Surgery,1.0,,a5049274599,https://www.med.uvm.edu/boysonlab/home,,231174,,2024-01-01
-"Acquisto,Joseph",2023,Professor,,1,1,French and Italian,0.0,,a5049409973,,,231174,,2024-01-01
-"Brewer, Matthias",2023,Professor,,1,1,Chemistry,1.0,,a5050101738,https://www.researchgate.net/lab/Matthias-Brewer-Lab,,231174,,2024-01-01
-"Deng, Bin",2023,Research Professor,,1,0,Biology,0.0,,a5050393620,,,231174,,2024-01-01
-"Burt, Keith",2023,Associate Professor,,1,1,Psychological Science,0.0,,a5051985654,,,231174,,2024-01-01
-"Petrucci, Giuseppe",2023,Professor,,1,1,Chemistry,1.0,,a5052009391,https://blog.uvm.edu/gpetrucc/people/,1987.0,231174,,2024-01-01
-"Caporizzo, Matthew",2023,Assistant Professor,,1,1,Molecular Physiology and Biophysics,1.0,,a5052355819,https://www.caporizzolab.org/teamm,,231174,,2024-01-01
-Callery Patrick,2023,Assistant Professor,,1,1,Grossman School of Business,0.0,,a5052810664,,,231174,,2024-01-01
-"Herrera,Gerald ",2023,Assistant Professor (COM) ,,1,1,Pharmacology,1.0,,a5053147031,https://herreralabs.com/lab-team/,,231174,,2024-01-01
-"Borchert, Thomas",2023,Professor,,1,1,Religion,0.0,,a5053150923,,,231174,,2024-01-01
-"Almassalkhi,Mads",2023,Associate Professor,Mads Almassalkhi,1,1,Electrical and Biomedical Engineering,1.0,,A5053327116,https://madsalma.github.io/people.html,,231174,,2024-01-01
-"Failla, Mathew",2023,Associate Professor,Mathew Failla,1,1,Rehabilitation and Movement Science,0.0,,a5053427181,,,231174,,2024-01-01
-"May Collado,Laura",2023,Assistant Professor,,1,0,Biology,1.0,,a5054296464,http://www.lauramay-collado.com/our-lab.html,,231174,,2024-01-01
-"Erdos, Benedek",2023,Associate Professor,,1,1,Pharmacology,1.0,3.0,a5054686016,https://www.med.uvm.edu/pharmacology/erdoslab,2001.0,231174,,2024-01-01
-"Chatterjee,Nimrat",2023,Assistant Professor,,1,1,Microbiology and Molecular Genetics,1.0,,a5054824999,https://www.chatterjeen-lab.com/members-1,,231174,,2024-01-01
-"Comerford,Susan",2023,Associate Professor,,1,0,Social Work,0.0,,a5055852542,,,231174,,2024-01-01
-"Cope,Meghan",2023,Professor,Meghan Cope,1,0,Geography and Geosciences,0.0,,A5056414452,,,231174,,2024-01-01
-"Everse, Stephen",2023,Associate Professor,Stephen J. Everse,1,1,Biochemistry,1.0,,a5056931515,,,231174,,2024-01-01
-"Beer, Caroline",2023,Professor,,1,0,Political Science,0.0,,a5058128585,,,231174,,2024-01-01
-"D'Amato, Anthony",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1.0,,a5058304577,https://site.uvm.edu/tdamato/?page_id=49,,231174,,2024-01-01
-"Pespeni,Melissa",2023,Associate Professor,,1,0,Biology,1.0,,a5058854710,https://blog.uvm.edu/mpespeni/,,231174,,2024-01-01
-"Carter, Chalais",2023,Assistant Professor,,1,0,Education,0.0,,a5059832943,,,231174,,2024-01-01
-"Bailly,Jacques",2023,Associate Professor,,1,1,Classics,0.0,,a5060287667,,1998.0,231174,,2024-01-01
-"Buzas,Jeff",2023,Professor,Jeffrey S. Buzas,1,1,Mathematics and Statistics,0.0,,A5060478670,,,231174,,2024-01-01
-"Keller,Stephen",2023,Associate Professor,,1,1,Plant Biology,1.0,,a5060633808,https://kellerlab.weebly.com/people.html,,231174,,2024-01-01
-"Near,Joseph",2023,Assistant Professor,,1,1,Computer Science,0.0,,a5061707651,https://www.uvm.edu/~jnear/#students,,231174,but associated with https://compsec.w3.uvm.edu/,2024-01-01
-"Bagrow,James",2023,Associate Professor,James P. Bagrow,1,1,Mathematics and Statistics,1.0,,A5062403203,https://bagrow.com/people/,,231174,,2024-01-01
-"Morielli, Anthony",2023,Associate Professor,Anthony D. Morielli,1,1,Pharmacology,0.0,,a5062626999,,,231174,,2024-01-01
-"Langevin, Scott",2023,Associate Professor,,1,1,Medicine,1.0,,a5062946342,https://www.researchgate.net/lab/Langevin-lab-Scott-M-Langevin,,231174,,2024-01-01
-"Anathy, Vikas",2023,Professor,,1,1,Pathology and Laboratory Medicine,1.0,,a5063274084,https://www.med.uvm.edu/pathology/anathylab_new,,231174,,2024-01-01
-"Bradshaw, Terence",2023,Associate Professor,,1,1,"Agriculture, Landscape, and Environment",0.0,,a5063690586,,,231174,No groups but he is really good at farming https://blog.uvm.edu/tbradsha/,2024-01-01
-"Crocker, Abigail",2023,Associate Professor,Abigail Crocker,1,0,Mathematics and Statistics,0.0,,A5063968442,,,231174,,2024-01-01
-"Toufexis,Donna",2023,Professor,Donna Toufexis,1,0,Psychological Science,1.0,,A5063974887,https://www.uvm.edu/cas/psychology/profiles/donna-toufexis-biobehavioral,,231174,,2024-01-01
-"Beckage,Brian",2023,Professor,Brian Beckage,1,1,Computer Science,1.0,,A5064679606,https://brianbeckage.github.io/lab.html,,231174,,2024-01-01
-"Barnaby, Andrew",2023,Professor,,1,1,English,0.0,,a5065482485,,,231174,,2024-01-01
-"Wollenberg,Eva",2023,Research Professor,,1,0,Rubenstein School of Environment and Natural Resources,0.0,,a5065504214,,,231174,,2024-01-01
-"Quenet, Delphine",2023,Assistant Professor,,1,0,Biochemistry,1.0,,a5065643291,https://www.med.uvm.edu/biochemistry/lab---quenet,,231174,,2024-01-01
-"Bierman,Paul",2023,Professor,Paul R. Bierman,1,1,Rubenstein School of Environment and Natural Resources,1.0,4.0,A5065669012,https://www.uvm.edu/cosmolab/students.html,1985.0,231174,,2024-01-01
-"Coderre,Emily",2023,Assistant Professor,Emily L. Coderre,1,0,Communication Sciences and Disorders,0.0,,A5066307333,,,231174,,2024-01-01
-"Bongard,Joshua",2023,Professor,Josh Bongard,1,1,Computer Science,1.0,,A5066791342,https://www.meclab.org/people,,231174,,2024-01-01
-"Backman,Spencer",2023,Assistant Professor,Spencer Backman,1,1,Mathematics and Statistics,0.0,,A5066800852,,,231174,,2024-01-01
-"Punihaole,David",2023,Assistant Professor,,1,1,Chemistry,1.0,,a5066993330,https://thepunihaolegroup.squarespace.com/group-members,,231174,,2024-01-01
-"Pandey, Amritanshu",2023,Assistant Professor,,1,1,Electrical and Biomedical Engineering,1.0,,a5067002514,https://www.amrit-pandey.com/,,231174,,2024-01-01
-"Commercio,Michele",2023,Professor,,1,1,Political Science,0.0,,a5067076795,,,231174,,2024-01-01
-"Headrick,Randall",2023,Professor,,1,1,Physics,1.0,,a5069684912,https://www.researchgate.net/lab/Randall-L-Headrick-Lab,,231174,,2024-01-01
-"Ebert, Alicia",2023,Associate Professor,Alicia M. Ebert,1,0,Biology,1.0,,A5070253378,https://blog.uvm.edu/amebert/people/,,231174,,2024-01-01
-Cardoso Costa,2023,Associate Professor,J.H.C. Costa,1,1,Animal and Veterinary Sciences,1.0,,a5070545248,https://costalab.weebly.com/people.html,,231174,,2024-01-01
-"Dixon, Anne",2023,Professor,,1,0,Medicine,0.0,,a5070720713,,1994.0,231174,,2024-01-01
-"Celli,Jean",2023,Professor,Jean-Gabriel Young,1,1,Mathematics and Statistics,1.0,,A5070850590,https://joint-lab.github.io/people,,231174,,2024-01-01
-"Jefferson,Anne",2023,Professor,,1,0,Rubenstein School of Environment and Natural Resources,1.0,,a5072210910,https://all-geo.org/jefferson/people/,,231174,,2024-01-01
-"Clark Keefe,Kelly",2023,Professor,Kelly Clark/Keefe,1,0,Education,0.0,,A5073802469,,,231174,,2024-01-01
-"Cipolla,Marilyn",2023,Professor,,1,0,Neurological Sciences; Electrical and Biomedical Engineering,1.0,,a5074235895,https://www.med.uvm.edu/neuro/cipolla_lab/people,,231174,,2024-01-01
-"Etter, Andrea",2023,Assistant Professor,Andrea J. Etter,1,0,Nutrition and Food Sciences,1.0,10.0,A5074355050,https://www.researchgate.net/lab/Andrea-J-Etter-Lab,,231174,,2024-01-01
-"Andersen, Ellen",2023,Associate Professor,Ellen Ann Andersen,1,0,Political Science,0.0,,A5074398027,,2001.0,231174,,2024-01-01
-"Carlson,Matthew",2023,Professor,,1,1,Political Science,0.0,,a5074460980,,,231174,,2024-01-01
-"Brody, Alison",2023,Professor,Alison K. Brody,1,0,Biology,1.0,,A5074708105,http://www.akbrody.com/lab%20members.html,,231174,,2024-01-01
-"Berger, Christopher",2023,Professor,Christopher L. Berger,1,1,Molecular Physiology and Biophysics,0.0,,A5075679004,,,231174,,2024-01-01
-"Chan,Sin- Yee",2023,Professor,,1,0,Philosophy,0.0,,a5076146366,,,231174,,2024-01-01
-"Bernstein, David",2023,Assistant Professor,,1,1,Electrical and Biomedical Engineering,0.0,,a5076884495,https://www.uvm.edu/cems/ebe/research-highlights,2014.0,231174,,2024-01-01
-"Cats-Baril, William",2023,Associate Professor,,1,1,Psychological Science,1.0,,a5077022082,,,231174,,2024-01-01
-"Gorres,Josef",2023,Professor,,1,1,"Agriculture, Landscape, and Environment",1.0,,a5077198528,https://blog.uvm.edu/jgorres/people/,,231174,,2024-01-01
-"Barlow,John",2023,Associate Professor,,1,1,Animal and Veterinary Sciences,0.0,,a5077572554,,1997.0,231174,,2024-01-01
-"Ahmmad,Zobayer",2023,Assistant Professor,,1,1,Sociology,0.0,,a5077733558,,,231174,,2024-01-01
-"Bessette,Jean",2023,Associate Professor,,1,0,English,0.0,,a5078189369,,,231174,,2024-01-01
-"Liptak,Matthew",2023,Professor,,1,1,Chemistry,1.0,,a5078803587,https://mliptak.w3.uvm.edu/people.html,,231174,,2024-01-01
-"Ahern, Thomas",2023,Associate Professor,Thomas P. Ahern,1,1,Surgery,0.0,,A5079241058,,2000.0,231174,,2024-01-01
-"Gould, Rachelle",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,1.0,,a5079985070,https://gouldgroup.weebly.com/people.html,,231174,,2024-01-01
-"Niles, Meredith",2023,Associate Professor,Meredith T. Niles,1,0,Nutrition and Food Sciences,1.0,,A5080871120,https://www.meredithtniles.com/students,,231174,,2024-01-01
-"Kelm,Robert",2023,Associate Professor,,1,1,Biochemistry,1.0,,a5080873801,https://www.med.uvm.edu/biochemistry/lab_kelm_labmembers,,231174,,2024-01-01
-"Stein,Janet",2023,Professor,,1,0,Biochemistry,1.0,,a5081119848,https://www.med.uvm.edu/biochemistry/steinlianlab/home,1970.0,231174,,2024-01-01
-"Delaney, Terrence",2023,Associate Professor,Terrence P. Delaney,1,1,Plant Biology,1.0,,A5081523526,https://www.uvm.edu/~tpdelane/lab/people.html,,231174,,2024-01-01
-"Bolh,Nathalie",2023,Professor,Nathalie Mathieu-Bolh,1,0,Economics,0.0,,A5082336655,,,231174,,2024-01-01
-"Fiorentino,Niccolo",2023,Assistant Professor,,1,1,Mechanical Engineering,1.0,,a5082463471,https://www.uvm.edu/~nfiorent/?_ga=2.139357875.1846055330.1722259314-695988312.1662757673,,231174,,2024-01-01
-"Glass, Karen",2023,Associate Professor,,1,0,Pharmacology,1.0,,a5082939157,https://www.med.uvm.edu/pharmacology/glass_lab,2009.0,231174,,2024-01-01
-"Bomblies, Arne",2023,Associate Professor,Arne Bomblies,1,1,Civil and Environmental Engineering,0.0,,A5085014912,,,231174,,2024-01-01
-"Gotelli,Nicholas",2023,Professor,Nicholas J. Gotelli,1,1,Biology,1.0,,A5085232359,https://www.uvm.edu/~ngotelli/homepage.html,,231174,,2024-01-01
-"Toolin, Regina",2023,Associate Professor,,1,0,Education,1.0,,a5085455189,https://www.researchgate.net/lab/Regina-Toolin-Lab,,231174,,2024-01-01
-"Rowangould, Gregory",2023,Associate Professor,,1,1,Civil and Environmental Engineering,1.0,,a5085946010,https://www.researchgate.net/lab/Gregory-M-Rowangould-Lab,,231174,,2024-01-01
-"Cunniff,Brian",2023,Assistant Professor,Brian Cunniff,1,1,Pathology and Laboratory Medicine,1.0,,A5085980410,http://www.med.uvm.edu/cunnifflab/labmembers,,231174,,2024-01-01
-"Bauerly,Kimberly",2023,Assistant Professor,Kim R. Bauerly,1,0,Communication Sciences and Disorders,1.0,,A5086274493,https://www.uvm.edu/cnhs/csd/speech-fluency-lab,,231174,,2024-01-01
-"Bose, Pablo",2023,Professor,Pablo S. Bose,1,1,Geography and Geosciences,0.0,,A5086838547,,,231174,,2024-01-01
-"Arambula Turner, Tracy",2023,Associate Professor,,1,0,Education,0.0,,a5087146071,,,231174,,2024-01-01
-"Brieant, Alexis",2023,Assistant Professor,,1,0,Psychological Science,1.0,,a5087248140,https://www.fernlab-uvm.com/people,,231174,,2024-01-01
-"Carr, Frances",2023,Professor,Frances E. Carr,1,0,Pharmacology,1.0,,A5087721092,https://www.med.uvm.edu/pharmacology/carrlabpersonnel,,231174,,2024-01-01
-"Harris,Jeanne",2023,Professor,,1,0,Plant Biology,1.0,,a5088037315,https://jeannemharrislab.weebly.com/people.html,,231174,,2024-01-01
-"Harraz, Osama",2023,Assistant Professor,,1,1,Pharmacology,1.0,,a5088271995,https://harrazlab.com/team,,231174,,2024-01-01
-"Freeman, Kalev",2023,Associate Professor,,1,1,Emergency Medicine,1.0,,a5088601829,https://www.trauma-lab.science/research,,231174,,2024-01-01
-"Heath,Jessica",2023,Associate Professor,,1,0,Biochemistry,1.0,,a5089340511,https://www.med.uvm.edu/biochemistry/lab---heath-lab-members,,231174,,2024-01-01
-"Althoff,Robert",2023,Associate Professor,,1,1,Psychiatry; Pediatrics,0.0,,a5089482475,,,231174,,2024-01-01
-"Aslakson,Rebecca",2023,Professor,Rebecca Aslakson,1,0,Anesthesiology,0.0,,A5090345791,,,231174,,2024-01-01
-"Farley,Joshua",2023,Professor,Joshua Farley,1,1,Community Development and Applied Economics,0.0,,a5090686681,,2004.0,231174,,2024-01-01
-"Diehl,Sean",2023,Associate Professor,Sean A. Diehl,1,0,Microbiology and Molecular Genetics,1.0,,A5090816940,https://www.med.uvm.edu/mmg/faculty/sean-diehl-phd,,231174,,2024-01-01
-"Bhurosy, Trishnee",2023,Assistant Professor,,1,0,Nutrition and Food Sciences,1.0,,a5091823137,https://www.researchgate.net/lab/Trishnee-Bhurosy-Lab,,231174,,2024-01-01
-"Weiss, Daniel",2023,Professor,,1,1,Electrical and Biomedical Engineering; Medicine,1.0,,a5101459958,https://weisspulmonarylab.org/currentlabmembers,2003.0,231174,,2024-01-01
-"Hernandez,Eric",2023,Associate Professor,,1,1,Civil and Environmental Engineering,1.0,,a5101677824,https://www.researchgate.net/lab/Structural-Monitoring-Diagnostics-and-Prognostics-Lab-Eric-Hernandez,,231174,,2024-01-01
-"Guo, Ming",2023,Professor,,1,1,Nutrition and Food Sciences,1.0,,a5101907134,https://www.uvm.edu/~mguo/laboratory.html,,231174,,2024-01-01
-"Hurley,Stephanie",2023,Associate Professor,,1,0,"Agriculture, Landscape, and Environment",1.0,,a5103029769,https://www.uvm.edu/cals/ale/hurley-lab,,231174,,2024-01-01
-"Stein, Gary",2023,Professor,Gary S. Stein,1,1,Biochemistry,1.0,,a5103217263,https://www.med.uvm.edu/biochemistry/steinlianlab/home,1970.0,231174,,2024-01-01
-"Ades, Philip",2023,Professor,,1,1,Medicine,0.0,,a5108368069,,,231174,,2024-01-01
-"C. Ewald,Alec ",2023,Associate Professor,Alec C. Ewald,1,1,Political Science,0.0,,a5109486647,,,231174,,2024-01-01
-"Ivakhiv,Adrian",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1.0,,a5110213117,https://ecoculturelab.net/,,231174,,2024-01-01
-"De Witt, Rocki-Lee",2023,Professor,,1,0,Grossman School of Business,0.0,,a5110344908,,,231174,,2024-01-01
-"Diouf,Moustapha",2023,Associate Professor,,1,1,Sociology,0.0,,a5111431318,,,231174,,2024-01-01
-"Cheney,Nicholas",2023,Assistant Professor,Nick Cheney,1,1,Computer Science,1.0,,a5112965505,https://www.uvm.edu/neurobotics/people,,231174,,2024-01-01
-"Fletcher,Douglas",2023,Professor,,1,1,Mechanical Engineering,0.0,,a5113506566,https://site.uvm.edu/plasma_lab/?page_id=16,,231174,,2024-01-01
-"Gramling,Robert",2023,Professor,Robert Gramling,1,1,Family Medicine,1.0,,a5113777237,https://vermontconversationlab.com/about/,,231174,,2024-01-01
-"Dickerman,Joseph",2023,Professor,,1,1,Pediatrics,0.0,,a5113979503,,,231174,,2024-01-01
-"Barnett,Julian",2023,Assistant Professor,,1,1,Theatre and Dance,0.0,,,,,231174,,2024-01-01
-"Baruth, Philip",2023,Professor,,1,1,English,0.0,,,,,231174,,2024-01-01
-"Beltre,Mildred",2023,Professor,,1,0,Art and Art History,0.0,,,,,231174,But she is involved in https://site.uvm.edu/cas-experiential-learning/?page_id=75,2024-01-01
-"Besaw Jr, Paul",2023,Professor,,1,1,Theatre and Dance,0.0,,,,,231174,,2024-01-01
-"Bottoms, Gregory",2023,Professor,,1,1,English,0.0,,,,,231174,,2024-01-01
-"Brown,Stephen",2023,Associate Professor,,1,1,"Obstetrics, Gynecology and Reproductive Sciences",0.0,,,,,231174,,2024-01-01
-"Budington, Steve",2023,Associate Professor,,1,1,Art and Art History,0.0,,,,,231174,,2024-01-01
-"Choi,Sooran",2023,Assistant Professor,,1,0,Art and Art History,0.0,,,,,231174,,2024-01-01
-"Do, Hung",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Doggett, Tyler",2023,Professor,,1,1,Philosophy,0.0,,,,,231174,,2024-01-01
-"Dostmann, Wolfgang",2023,Professor,,1,1,Pharmacology,1.0,,,,,231174,,2024-01-01
-"Doublie,Sylvie",2023,Professor,,1,0,Microbiology and Molecular Genetics,0.0,,,,,231174,,2024-01-01
-"Dubief, Yves",2023,Associate Professor,,1,1,Mechanical Engineering,0.0,,,,,231174,,2024-01-01
-"Dupuy, Taylor",2023,Assistant Professor,,1,1,Mathematics and Statistics,0.0,,,,,231174,,2024-01-01
-"Eberhardt, Maeve",2023,Associate Professor,,1,0,Linguistics,0.0,,,,,231174,,2024-01-01
-"Ehret,Danielle",2023,Associate Professor,,1,0,Pediatrics,0.0,,,,,231174,,2024-01-01
-"Elliott,Anna",2023,Associate Professor,,1,0,"Counseling, Human Development and Family Science",0.0,,,,,231174,no group but see https://site.uvm.edu/restorativepractices/,2024-01-01
-"Ellis, Deborah",2023,Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Emery,Meaghan",2023,Associate Professor,,1,0,French and Italian,0.0,,,,,231174,,2024-01-01
-"Ergene,Bogac",2023,Professor,,1,1,History,0.0,,,,,231174,,2024-01-01
-"Erickson,Jon",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,0.0,,,,,231174,,2024-01-01
-"Escaja, Tina",2023,Professor,,1,0,Spanish,0.0,,,,,231174,,2024-01-01
-"Esselstrom,Erik",2023,Professor,,1,1,History,0.0,,,,,231174,,2024-01-01
-"Etzion, Dror",2023,Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Fenton, Elizabeth",2023,Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Feurzeig, David",2023,Professor,,1,1,Music,0.0,,,,,231174,,2024-01-01
-"Field,Sean",2023,Professor,,1,1,History,0.0,,,,,231174,,2024-01-01
-"Finette,Barry",2023,Professor,,1,1,Microbiology and Molecular Genetics; Pediatrics,0.0,,,,,231174,,2024-01-01
-"Floreani, Rachael",2023,Associate Professor,,1,0,Mechanical Engineering,0.0,,,,,231174,,2024-01-01
-"Flores, Yolanda",2023,Associate Professor,,1,0,Spanish,0.0,,,,,231174,,2024-01-01
-"Fook,Janis",2023,Professor,,1,0,Social Work,0.0,,,,,231174,,2024-01-01
-"Fothergill, Alice",2023,Professor,,1,0,Sociology,0.0,,,,,231174,,2024-01-01
-"Franklin,John",2023,Professor,,1,1,Classics,0.0,,,,,231174,,2024-01-01
-"Fraser,Pamela",2023,Associate Professor,,1,1,Theatre and Dance,0.0,,,,,231174,,2024-01-01
-"Frolik,Jeff",2023,Professor,,1,1,Electrical and Biomedical Engineering,1.0,,,,,231174,,2024-01-01
-"Gamble,Edward",2023,Assistant Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Garcia, Luis",2023,Professor,,1,1,Civil and Environmental Engineering,0.0,,,,,231174,,2024-01-01
-"Garlick,Alexander",2023,Assistant Professor,,1,1,Political Science,0.0,,,,,231174,,2024-01-01
-"Garnett, Bernice",2023,Associate Professor,,1,0,Education,0.0,,,,,231174,no group but see https://www.uvm.edu/cess/catamount-community-schools-collaborative-ccsc,2024-01-01
-"Garvey,Jason",2023,Associate Professor,,1,1,Education,0.0,,,,,231174,,2024-01-01
-"Garwood,Justin",2023,Associate Professor,,1,1,Education,0.0,,,,,231174,,2024-01-01
-"Gell, Nancy",2023,Associate Professor,,1,0,Rehabilitation and Movement Science,0.0,,,,,231174,,2024-01-01
-"Gennari,John",2023,Professor,,1,1,English,0.0,,,,,231174,,2024-01-01
-"Ghazanfari, Ehsan",2023,Associate Professor,,1,1,Civil and Environmental Engineering,0.0,,,,,231174,,2024-01-01
-"Gierzynski,Anthony",2023,Professor,,1,1,Political Science,0.0,,,,,231174,,2024-01-01
-"Gilmartin, Gregory",2023,Associate Professor,,1,1,Microbiology and Molecular Genetics,0.0,,,,,231174,,2024-01-01
-"Ginger, Clare",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,0.0,,,,,231174,,2024-01-01
-"Glavas, Ante",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Gleason,Kelsey",2023,Assistant Professor,,1,0,Biomedical and Health Sciences,0.0,,,,,231174,,2024-01-01
-"Gorenstein Massa, Felipe",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Gough,Kathleen",2023,Associate Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Gove, Steven",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Green,John",2023,Professor,,1,1,Psychological Science,1.0,,,,,231174,,2024-01-01
-"Greenblatt, Marc",2023,Professor,,1,0,Medicine,0.0,,,,,231174,,2024-01-01
-"Guber, Deborah",2023,Professor,,1,0,Political Science,0.0,,,,,231174,,2024-01-01
-"Gustafson,Melanie",2023,Professor,,1,0,History,0.0,,,,,231174,But she did work on https://www.uvm.edu/cas/history/profile/melanie-s-gustafson,2024-01-01
-"Haines, Shana",2023,Associate Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Halladay, Juliet",2023,Associate Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Harlow,Seth",2023,Associate Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Harp, Randall",2023,Associate Professor,,1,0,Philosophy,0.0,,,,,231174,,2024-01-01
-"Harrington,Donna Theresa",2023,Associate Professor,,1,0,Economics,,,,,,231174,,2024-01-01
-"Harrington,Susanmarie",2023,Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Hausheer, Robin",2023,Associate Professor,,1,0,"Counseling, Human Development and Family Science",0.0,,,,,231174,But she received a large NIH grant to study bullying,2024-01-01
-"Heil,Sarah",2023,Professor,,1,0,Psychological Science,0.0,,,,,231174,,2024-01-01
-"Heiss,Sarah",2023,Associate Professor,,1,0,Community Development and Applied Economics,0.0,,,,,231174,,2024-01-01
-"Henne,Peter",2023,Associate Professor,,1,1,Political Science,0.0,,,,,231174,,2024-01-01
-"Higa,Paula",2023,Assistant Professor,,1,0,Theatre and Dance,0.0,,,,,231174,,2024-01-01
-"Holmes, Chris",2023,Professor,,1,0,Medicine,0.0,,,,,231174,,2024-01-01
-"Holmes, Gregory",2023,Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Holmes,Lisa",2023,Associate Professor,,1,0,Political Science,0.0,,,,,231174,,2024-01-01
-"Holt, Brett",2023,Associate Professor,,1,1,Education,0.0,,,,,231174,,2024-01-01
-"Hopkins, William",2023,Associate Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Horbar,Jeffrey",2023,Professor,,1,1,Pediatrics,0.0,,,,,231174,,2024-01-01
-"Huener,Jonathan",2023,Professor,,1,1,History,0.0,,,,,231174,,2024-01-01
-"Huh,Jinny",2023,Associate Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Hummel,Maria",2023,Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Hurley, Jennifer",2023,Associate Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Hurley, Sean",2023,Associate Professor,,1,1,Education,0.0,,,,,231174,,2024-01-01
-"Huston,Dryver",2023,Professor,,1,1,Mechanical Engineering,0.0,,,,,231174,,2024-01-01
-"Hutchins, Tiffany",2023,Associate Professor,,1,0,Communication Sciences and Disorders,0.0,,,,,231174,,2024-01-01
-"Ikeda,Kyle",2023,Associate Professor,,1,1,East Asian Languages and Literatures,0.0,,,,,231174,,2024-01-01
-"Irvin, Charles",2023,Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Jiron,Haley",2023,Associate Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Jones, David",2023,Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Jorgenson, Simon",2023,Associate Professor,,1,1,Education,0.0,,,,,231174,,2024-01-01
-"Joshi, Aishwarya",2023,Assistant Professor,,1,0,"Counseling, Human Development and Family Science",0.0,,,,,231174,,2024-01-01
-"Julien, Patricia",2023,Professor,,1,0,Music,0.0,,,,,231174,,2024-01-01
-"Kaelber,Lutz",2023,Associate Professor,,1,1,Sociology,0.0,,,,,231174,,2024-01-01
-"Kahn-Fogel,Daniel",2023,Professor,,1,1,English,0.0,,,,,231174,,2024-01-01
-"Kaminsky,David",2023,Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Kasser, Susan",2023,Professor,,1,0,Rehabilitation and Movement Science,0.0,,,,,231174,,2024-01-01
-"Kent,Jane",2023,Professor,,1,0,Art and Art History,0.0,,,,,231174,,2024-01-01
-"Kervick, Colby",2023,Associate Professor,,1,0,Education,0.0,,,,,231174,but associated with https://site.uvm.edu/restorativepractices/,2024-01-01
-"Kete,Mary",2023,Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Khadanga, Sherrie",2023,Assistant Professor,,1,0,Medicine,0.0,,,,,231174,,2024-01-01
-"Kinsey, Charles",2023,Associate Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Klepeis, Keith",2023,Professor,,1,1,Geography and Geosciences,0.0,,,,,231174,but he says my students and I are interested... https://www.uvm.edu/~kklepeis/Student_Opportunities/in_Structural_Geology_and_Tectonics.html,2024-01-01
-"Knodell,Jane",2023,Professor,,1,0,Economics,0.0,,,,,231174,,2024-01-01
-"Knodler,Leigh",2023,Associate Professor,,1,0,Microbiology and Molecular Genetics,0.0,,,,,231174,,2024-01-01
-"Kojzar, Christopher",2023,Assistant Professor,,1,1,Art and Art History,0.0,,,,,231174,,2024-01-01
-"Kooperkamp,Hannah",2023,Associate Professor,,1,0,Surgery,0.0,,,,,231174,,2024-01-01
-"Kosiba, Alexandra",2023,Professor,,1,0,Rubenstein School of Environment and Natural Resources,0.0,,,,,231174,,2024-01-01
-"Kotov, Valeri",2023,Assistant Professor,,1,1,Physics,0.0,,,,,231174,,2024-01-01
-"Koulouris, Carolyn",2023,Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Krag,David",2023,Associate Professor,,1,1,Medicine,0.0,,,,,231174,but see https://www.vermontpublic.org/show/vermont-edition/2025-03-11/a-uvm-team-is-creating-a-massive-database-of-research-about-opioid-use-disorder,2024-01-01
-"Krag,Martin",2023,Professor,,1,1,Orthopaedics and Rehabilitation,0.0,,,,,231174,,2024-01-01
-"Krauthamer, Gunter",2023,Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Lai,Jennifer",2023,Assistant Professor,,1,0,Sociology,0.0,,,,,231174,,2024-01-01
-"Lakoba, Taras",2023,Professor,,1,1,Mathematics and Statistics,0.0,,,,,231174,,2024-01-01
-"Landry, Christopher",2023,Professor,,1,1,Chemistry,0.0,,,,,231174,,2024-01-01
-"Laurent, Jennifer",2023,Professor,,1,0,Nursing,0.0,,,,,231174,,2024-01-01
-"Law,Marc",2023,Professor,,1,1,Economics,0.0,,,,,231174,,2024-01-01
-"Lee,Byung",2023,Professor,,1,1,Computer Science,0.0,,,,,231174,,2024-01-01
-"Lehner, Ace",2023,Assistant Professor,,1,1,Art and Art History,0.0,,,,,231174,,2024-01-01
-"Lewis, Laura",2023,Assistant Professor,,1,0,Nursing,0.0,,,,,231174,,2024-01-01
-"Lidofsky,Steven",2023,Professor,,1,1,Medicine; Biochemistry,0.0,,,,,231174,,2024-01-01
-"Lindstrom,Eric",2023,Professor,,1,1,English,0.0,,,,,231174,,2024-01-01
-"Loeb, Don",2023,Associate Professor,,1,1,Philosophy,0.0,,,,,231174,,2024-01-01
-"Lopez-Vicuna, Ignacio",2023,Associate Professor,,1,1,Spanish,0.0,,,,,231174,,2024-01-01
-"Losambe,Lokangaka",2023,Professor,,1,1,English,0.0,,,,,231174,,2024-01-01
-"Lounsbury, Karen",2023,Professor,,1,0,Pharmacology,0.0,,,,,231174,,2024-01-01
-"Lowensohn,Suzanne",2023,Associate Professor,,1,0,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Lucas,Marilyn",2023,Associate Professor,,1,0,Grossman School of Business,1.0,,,,,231174,,2024-01-01
-"Ly,Minh",2023,Assistant Professor,,1,1,Political Science,0.0,,,,,231174,,2024-01-01
-"Ma,Jihong",2023,Assistant Professor,,1,0,Mechanical Engineering,1.0,,,https://site.uvm.edu/jama/?page_id=128,,231174,,2024-01-01
-"Madalengoitia,Jose",2023,Associate Professor,,1,1,Chemistry,1.0,,,,,231174,,2024-01-01
-"Magistrale, Anthony",2023,Professor,,1,1,English,0.0,,,,,231174,,2024-01-01
-"Mares, Teresa",2023,Associate Professor,,1,0,Anthropology,0.0,,,,,231174,,2024-01-01
-"Marsden,Ellen",2023,Professor,,1,0,Rubenstein School of Environment and Natural Resources,1.0,,a5010447871,https://www.researchgate.net/lab/J-Ellen-Marsden-Lab,,231174,,2024-01-01
-"Marshall,Jeffrey",2023,Professor,,1,1,Mechanical Engineering,1.0,,,https://site.uvm.edu/jmarsha1/,,231174,,2024-01-01
-"Martorelli Di Genova,Bruno",2023,Assistant Professor,,1,1,Microbiology and Molecular Genetics,1.0,,,,,231174,,2024-01-01
-"Massell,David",2023,Professor,,1,1,History,0.0,,,,,231174,,2024-01-01
-"Mawe, Gary",2023,Professor,,1,1,Pharmacology; Medicine,0.0,,,,,231174,there is a note in his obit about a lab but i couldn't find any links,2024-01-01
-"May, Victor",2023,Professor,,1,1,Neurological Sciences,1.0,,,,,231174,,2024-01-01
-"Mayo, Cris",2023,Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Mays,Kate",2023,Assistant Professor,,1,0,Community Development and Applied Economics,0.0,,,,,231174,,2024-01-01
-"Mazzoni, Mariacristina",2023,Professor,,1,0,French and Italian,0.0,,,,,231174,,2024-01-01
-"McCluskey,Matthew",2023,Assistant Professor,,1,1,Education,0.0,,,,,231174,,2024-01-01
-"McCullough,Robert",2023,Professor,,1,0,History,0.0,,,,,231174,,2024-01-01
-"McDowell, William",2023,Professor,,1,1,Art and Art History,0.0,,,,,231174,,2024-01-01
-"McGowan, Todd",2023,Professor,,1,1,English,0.0,,,,,231174,,2024-01-01
-"Melekis,Kelly",2023,Associate Professor,,1,0,Social Work,0.0,,,,,231174,,2024-01-01
-"Meyer, Lori",2023,Associate Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Meyer,Marjorie",2023,Professor,,1,0,"Obstetrics, Gynecology and Reproductive Sciences",0.0,,,,,231174,,2024-01-01
-"Michelson,James",2023,Professor,,1,1,Orthopaedics and Rehabilitation,1.0,,a5065232848,https://www.researchgate.net/lab/James-Michelson-Lab,,231174,,2024-01-01
-"Mierse, William",2023,Professor,,1,1,Art and Art History,0.0,,,,,231174,,2024-01-01
-"Miller Eismeier, Stephen",2023,Assistant Professor,,1,1,Mathematics and Statistics,0.0,,,,,231174,,2024-01-01
-"Miller, Eleanor",2023,Professor,,1,0,Sociology,0.0,,,,,231174,,2024-01-01
-"Molofsky,Jane",2023,Professor,,1,0,Plant Biology,0.0,,,,,231174,,2024-01-01
-"Monsen,Erik",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Morales,Ana",2023,Assistant Professor,,1,0,Rubenstein School of Environment and Natural Resources,1.0,,a5051112540,https://www.vermontlimnology.com/about,,231174,"she is the acting director of the lab, but other profs are part of it.",2024-01-01
-"Morand-Metivier, Charles-Louis",2023,Associate Professor,,1,1,French and Italian,0.0,,,,,231174,,2024-01-01
-"Morelli,Kathryn",2023,Assistant Professor ,,1,0,Neurological Sciences,1.0,,,,,231174,,2024-01-01
-"Morgan - Parmett, Helen",2023,Associate Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Morgenstein Fuerst,Ilyse",2023,Associate Professor,,1,0,Religion,0.0,,,,,231174,,2024-01-01
-"Morin,Frederick",2023,Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Morse, Cheryl",2023,Associate Professor,,1,0,Geography and Geosciences,0.0,,,,,231174,but she has really cool projects going on: https://www.cherylmorse.com/rural-mobility.html,2024-01-01
-"Mosher, Brittany",2023,Assistant Professor,,1,0,Rubenstein School of Environment and Natural Resources,1.0,,a5082413587,https://werl-uvm.mystrikingly.com/#people,,231174,,2024-01-01
-"Moyer,Mark",2023,Associate Professor,,1,1,Philosophy,0.0,,,,,231174,,2024-01-01
-"Murdoch,James",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,0.0,,,,,231174,no group but see https://www.jdmurdoch.com/,2024-01-01
-"Murray-Close, Dianna",2023,Professor,,1,0,Psychological Science,1.0,,a5004322781,https://site.uvm.edu/socldevl/?page_id=64,,231174,,2024-01-01
-"Mutha,Akshay",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Nallasamy,Shanmugasundaram",2023,Assistant Professor,,1,1,"Obstetrics, Gynecology and Reproductive Sciences",1.0,,a5085056433,https://www.uvm.edu/cals/asci/profile/shanmugasundaram-nallasamy-dvm-phd,,231174,,2024-01-01
-"Nelson, Mark",2023,Professor,,1,1,Pharmacology,1.0,15.0,a5048090770,https://www.nelsonlaboratory.com/our-team,1989.0,231174,"more like a center than an actual lab. In his team, there are profs with their own group. Also see where the money comes from https://www.med.uvm.edu/pharmacology/research/totman_medical_research_trust_funding_research",2024-01-01
-"Nelson,Ingrid",2023,Associate Professor,,1,0,Geography and Geosciences,0.0,,,,,231174,,2024-01-01
-"Neroni, Hilary",2023,Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Neumann,Maureen",2023,Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Nilsen,Sarah",2023,Associate Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Nolfi, Katherine",2023,Associate Professor,,1,0,Philosophy,0.0,,,,,231174,,2024-01-01
-"Noordewier, Thomas",2023,Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Northey,Kaitlin",2023,Assistant Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Novak,David",2023,Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Nunley, Gayle",2023,Associate Professor,,1,0,Spanish,0.0,,,,,231174,,2024-01-01
-"Olson,Nels",2023,Assistant Professor,,1,1,Pathology and Laboratory Medicine,0.0,,,,,231174,,2024-01-01
-"Onaolapo,Jeremiah",2023,Assistant Professor,,1,1,Computer Science,0.0,,,,,231174,,2024-01-01
-"Ossareh, Hamid - Reza",2023,Associate Professor,,1,1,Electrical and Biomedical Engineering,0.0,,,,,231174,,2024-01-01
-"Osten,Sarah",2023,Associate Professor,,1,0,History,0.0,,,,,231174,but she might have nice data to look at https://www.sarahosten.com/teaching,2024-01-01
-"Palumbo,Mary",2023,Professor,,1,0,Nursing,1.0,,a5006192874,https://www.researchgate.net/lab/Mary-Val-Palumbo-Lab,,231174,,2024-01-01
-"Panikkar,Bindu",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,1.0,,,https://www.researchgate.net/lab/Bindu-Panikkar-Lab,,231174,,2024-01-01
-"Patania, Alice",2023,Assistant Professor,,1,0,Mathematics and Statistics,0.0,,,,,231174,,2024-01-01
-"Perkins, Timothy",2023,Research Professor,,1,1,Plant Biology,0.0,,,,,231174,he ran the proctor maple research center for a long time https://www.themaplenews.com/story/uvm-names-new-director-of-proctor-maple-research-center/522/ ,2024-01-01
-"Peters, Denise",2023,Assistant Professor,,1,0,Rehabilitation and Movement Science,1.0,,,https://mainlab.wixsite.com/mainlab,,231174,,2024-01-01
-"Petrillo,Jane",2023,Associate Professor,,1,0,Community Development and Applied Economics,0.0,,,,,231174,,2024-01-01
-"Phelps,Nicole",2023,Professor,,1,1,History,0.0,,,,,231174,,2024-01-01
-"Pinder, George",2023,Professor,,1,1,Civil and Environmental Engineering; Mathematics and Statistics,0.0,,,,,231174,,2024-01-01
-"Pinel,Elizabeth",2023,Professor,,1,0,Psychological Science,1.0,,,https://www.uvm.edu/cas/psychology/profile/elizabeth-pinel,,231174,"claims to have a lab, but nowhere to be seen.",2024-01-01
-"Pirone,John",2023,Assistant Professor,,1,1,Education,0.0,,,,,231174,,2024-01-01
-"Plante, Mark",2023,Professor,,1,1,Surgery,0.0,,,,,231174,,2024-01-01
-"Pope,Elizabeth",2023,Associate Professor,,1,0,Nutrition and Food Sciences,1.0,,,https://site.uvm.edu/efpope/?page_id=45,,231174,,2024-01-01
-"Poynter,Matthew",2023,Professor,,1,1,Medicine,1.0,,,,,231174,,2024-01-01
-"Preston,Jill",2023,Professor,,1,0,Plant Biology,1.0,,,https://jillpreston.weebly.com/people.html,,231174,,2024-01-01
-"Previs,Michael",2023,Assistant Professor,,1,1,Molecular Physiology and Biophysics,1.0,,,https://sites.google.com/view/mprevis/people,,231174,,2024-01-01
-"Prevost, Andrew",2023,Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Proulx, Christine",2023,Associate Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Pucci, Paolo",2023,Associate Professor,,1,1,French and Italian,0.0,,,,,231174,,2024-01-01
-"Putney, Jennifer",2023,Associate Professor,,1,0,Social Work,0.0,,,,,231174,,2024-01-01
-"Rayback, Shelly",2023,Professor,,1,0,Geography and Geosciences,0.0,,,,,231174,"No lab, but she co-founded https://www.uvm.edu/femc/dendro. They do quants work on dendrochronology.",2024-01-01
-"Raymond,Leigh",2023,Professor,,1,1,Political Science,0.0,,,,,231174,,2024-01-01
-"Reblin, Maija",2023,Associate Professor,,1,0,Family Medicine,0.0,,,,,231174,associated with the Vermont Conversation lab (https://maijareblin.weebly.com/publications--projects.html) and the care lab (https://labpages2.moffitt.org/care/people/),2024-01-01
-"Rellini, Alessandra",2023,Associate Professor,,1,0,Psychological Science,1.0,,,,,231174,mention of research group https://www.uvm.edu/~shrc/Training.html,2024-01-01
-"Reynolds, Travis",2023,Associate Professor,,1,1,Community Development and Applied Economics,0.0,,,,,231174,associated with https://epar.evans.uw.edu/,2024-01-01
-"Ricketts, Taylor",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1.0,,,https://www.rickettslab.com/people,,231174,,2024-01-01
-"Rizzo, Donna",2023,Professor,,1,0,Civil and Environmental Engineering,0.0,,,,,231174,,2024-01-01
-"Roberts,Steven",2023,Associate Professor,,1,1,Microbiology and Molecular Genetics,0.0,,,,,231174,,2024-01-01
-"Rodriguez, Guillermo",2023,Associate Professor,,1,1,Linguistics,0.0,,,,,231174,,2024-01-01
-"Rohan, Kelly",2023,Professor,,1,0,Psychological Science,1.0,,,https://www.uvm.edu/cas/psychology/seasonal-affective-disorder,,231174,,2024-01-01
-"Rohy, Valerie",2023,Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Rombach,Michaela",2023,Assistant Professor,,1,0,Mathematics and Statistics,0.0,,,,,231174,,2024-01-01
-"Rowangould, Dana",2023,Assistant Professor,,1,0,Civil and Environmental Engineering,0.0,,,,,231174,Associated with the https://www.uvm.edu/cems/trc/current-students,2024-01-01
-"Roy,Eric",2023,Associate Professor,,1,1,Rubenstein School of Environment and Natural Resources,1.0,,,https://nced.weebly.com/team.html,,231174,,2024-01-01
-"Salame,Zeina",2023,Assistant Professor,,1,0,Theatre and Dance,0.0,,,,,231174,,2024-01-01
-"Salogiannis,John",2023,Assistant Professor,,1,1,Molecular Physiology and Biophysics,1.0,,,https://sites.google.com/view/salogiannis-lab/people,,231174,,2024-01-01
-"Sansoz,Frederic",2023,Professor,,1,1,Mechanical Engineering,1.0,,,https://site.uvm.edu/FredericSansoz/people/,,231174,,2024-01-01
-"Schermerhorn,Alice",2023,Associate Professor,,1,0,Psychological Science,1.0,,,https://www.uvm.edu/~ascherme/people/,,231174,,2024-01-01
-"Schneider,David",2023,Professor,,1,1,Medicine,1.0,,,https://www.researchgate.net/lab/David-John-Schneider-Lab,,231174,,2024-01-01
-"Schnell,Lisa",2023,Associate Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Schnitzlein, Charles",2023,Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Schrafstetter,Susanna",2023,Professor,,1,0,History,0.0,,,,,231174,,2024-01-01
-"Schreckenberger, Helga",2023,Professor,,1,0,"German, Russian, and Hebrew",0.0,,,,,231174,,2024-01-01
-"Scollins, Kathleen",2023,Associate Professor,,1,0,"German, Russian, and Hebrew",0.0,,,,,231174,,2024-01-01
-"Scott, Helen",2023,Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Selao, Ching",2023,Associate Professor,,1,0,French and Italian,0.0,,,,,231174,,2024-01-01
-"Seward,David",2023,Assistant Professor,,1,1,Pathology and Laboratory Medicine,1.0,,,https://dseward.w3.uvm.edu/templatepage2.html,,231174,,2024-01-01
-"Shaffer,Jonathan",2023,Assistant Professor,,1,1,Sociology,0.0,,,,,231174,,2024-01-01
-"Sharma,Pramodita",2023,Professor,,1,0,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Shea,Jeanne",2023,Associate Professor,,1,0,Anthropology,0.0,,,,,231174,,2024-01-01
-"Sherwin,Nikki",2023,Professor,,1,0,Sociology,0.0,,,,,231174,,2024-01-01
-"Shimko,Robert",2023,Associate Professor,,1,1,Theatre and Dance,0.0,,,,,231174,,2024-01-01
-"Shrum, Trisha",2023,Assistant Professor,,1,0,Community Development and Applied Economics,0.0,,,,,231174,but she is a cofounder of https://www.deartomorrow.org/about/advisory/,2024-01-01
-"Sicotte,Richard",2023,Associate Professor,,1,1,Economics,0.0,,,,,231174,,2024-01-01
-"Sigmon,Stacey",2023,Professor,,1,0,Psychological Science,0.0,,,,,231174,but she is the head of https://www.uvmcora.org/our-team/,2024-01-01
-"Sirkel,Riin",2023,Associate Professor,,1,0,Philosophy,0.0,,,,,231174,,2024-01-01
-"Sisk,Jennifer",2023,Associate Professor,,1,0,English,0.0,,,,,231174,,2024-01-01
-"Skalka, Christian",2023,Professor,,1,1,Computer Science,0.0,,,,,231174,but he is the director of https://compsec.w3.uvm.edu/,2024-01-01
-"Skinner,Roy",2023,Assistant Professor,,1,1,Pharmacology,1.0,,,https://www.ramplab.org/people,,231174,he has a nice cat,2024-01-01
-"Smith, Carmen",2023,Associate Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Smith,Bikki",2023,Assistant Professor,,1,0,Biomedical and Health Sciences,0.0,,,,,231174,,2024-01-01
-"Smith,Julia",2023,Research Professor,,1,0,Animal and Veterinary Sciences,0.0,,,,,231174,but she is the director of https://www.secureagriculture.org/,2024-01-01
-"Smith,Lance",2023,Associate Professor,,1,1,"Counseling, Human Development and Family Science",0.0,,,,,231174,cofounder of https://site.uvm.edu/restorativepractices/,2024-01-01
-"Soll, Roger",2023,Professor,,1,1,Pediatrics,0.0,,,,,231174,,2024-01-01
-"Solnick,Sara",2023,Associate Professor,,1,0,Economics,0.0,,,,,231174,,2024-01-01
-"Solomon, Brenda",2023,Associate Professor,,1,0,Social Work,0.0,,,,,231174,,2024-01-01
-"Spees,Jeffrey",2023,Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Sprague, Brian",2023,Professor,,1,1,Surgery; Radiology; Biochemistry,,,,,,231174,but he is director of https://www.uvm.edu/larnermed/uvmcancercenter/population-sciences-and-cancer-outcomes,2024-01-01
-"Stafford,James",2023,Assistant Professor,,1,1,Neurological Sciences,1.0,,,,,231174,couldn't find is group url,2024-01-01
-"Stapleton, Renee",2023,Professor,,1,0,Medicine,0.0,,,,,231174,,2024-01-01
-"Stark, Kristabel",2023,Assistant Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Starrett,Mark",2023,Associate Professor,,1,1,"Agriculture, Landscape, and Environment",0.0,,,,,231174,,2024-01-01
-"Steinberg,Jonah",2023,Associate Professor,,1,1,Anthropology,0.0,,,,,231174,,2024-01-01
-"Steinweis, Alan",2023,Professor,,1,1,History,0.0,,,,,231174,,2024-01-01
-"Stevens,Lori",2023,Professor,,1,0,Biology,0.0,,,,,231174,,2024-01-01
-"Stewart, Alexander",2023,Professor,,1,1,Music,0.0,,,,,231174,,2024-01-01
-"Stickle, Timothy",2023,Associate Professor,,1,1,Psychological Science,1.0,,,,,231174,,2024-01-01
-"Stilwell,Sean",2023,Professor,,1,1,History,0.0,,,,,231174,,2024-01-01
-"Stockwell,Jason",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,0.0,,,,,231174,but part of the https://www.uvm.edu/rsenr/rubensteinlab/faculty,2024-01-01
-"Stokowski,Patricia",2023,Professor,,1,0,Rubenstein School of Environment and Natural Resources,0.0,,,,,231174,,2024-01-01
-"Strickler,Jennifer",2023,Associate Professor,,1,0,Sociology,0.0,,,,,231174,,2024-01-01
-"Strolin,Jessica",2023,Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Stumpff,Jason",2023,Associate Professor,,1,1,Molecular Physiology and Biophysics,1.0,,,https://physioweb.uvm.edu/stumpff-lab/lab-members/,,231174,,2024-01-01
-"Sullivan,E. Thomas",2023,Professor,,1,1,Political Science,0.0,,,,,231174,,2024-01-01
-"Sutherland, Daniella",2023,Associate Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Svolos,Lampros",2023,Assistant Professor,,1,1,Civil and Environmental Engineering,0.0,,,,,231174,,2024-01-01
-"Swanson,Bridget",2023,Assistant Professor,,1,0,"German, Russian, and Hebrew",0.0,,,,,231174,,2024-01-01
-"Tarbi,Elise",2023,Assistant Professor,,1,0,Nursing,0.0,,,,,231174,,2024-01-01
-"Taylor,Robert",2023,Professor,,1,1,Political Science,0.0,,,,,231174,,2024-01-01
-"Testo, Weston",2023,Assistant Professor,,1,1,Plant Biology,1.0,,,,,231174,,2024-01-01
-"Teuscher, Cory",2023,Professor,,1,1,Medicine,1.0,,,https://www.researchgate.net/lab/Cory-Teuscher-Lab,,231174,,2024-01-01
-"Thacker,Nancy",2023,Assistant Professor,,1,0,"Counseling, Human Development and Family Science",0.0,,,,,231174,,2024-01-01
-"Thali,Markus",2023,Professor,,1,1,Microbiology and Molecular Genetics,1.0,,,https://www.med.uvm.edu/mmg/faculty/markus-thali-ph-d,,231174,,2024-01-01
-"Thompson,Nathaniel",2023,Assistant Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Tierney,Mary",2023,Associate Professor,,1,0,Plant Biology,1.0,,,https://www.uvm.edu/~mtierney/Labmembers.html,,231174,,2024-01-01
-"Tobin,Daniel",2023,Associate Professor,,1,1,Community Development and Applied Economics,0.0,,,,,231174,,2024-01-01
-"Todd, Travis",2023,Assistant Professor,,1,1,Psychological Science,1.0,,,https://www.todd-lab.org/personnel,,231174,,2024-01-01
-"Tomas III, Michael",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Tompkins, Connie",2023,Associate Professor,,1,0,Rehabilitation and Movement Science,0.0,,,,,231174,,2024-01-01
-"Toner Jr.,D.",2023,Professor,,1,1,Music,0.0,,,,,231174,,2024-01-01
-"Toth,Michael",2023,Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"Tourville, Timothy",2023,Associate Professor,,1,1,Rehabilitation and Movement Science,0.0,,,,,231174,,2024-01-01
-"Tracy,Russell",2023,Professor,,1,1,Pathology and Laboratory Medicine,1.0,,,http://www.med.uvm.edu/lcbr/about,,231174,,2024-01-01
-"Tranmer,Bruce",2023,Professor,,1,1,Surgery,0.0,,,,,231174,,2024-01-01
-"Trubek, Amy",2023,Professor,,1,0,Nutrition and Food Sciences,0.0,,,,,231174,,2024-01-01
-"Trybus, Kathleen",2023,Professor,,1,0,Molecular Physiology and Biophysics,0.0,,,,,231174,,2024-01-01
-"Uddin,M. Salim",2023,Assistant Professor,,1,1,Rubenstein School of Environment and Natural Resources,0.0,,,,,231174,,2024-01-01
-"Ukhov, Andrey",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Usher, Mark",2023,Professor,,1,1,Geography and Geosciences,0.0,,,,,231174,,2024-01-01
-"Van Buren,Peter",2023,Associate Professor,,1,1,Medicine,0.0,,,,,231174,,2024-01-01
-"van den Broek-Altenburg, Eline",2023,Assistant Professor,,1,0,Radiology,0.0,,,,,231174,,2024-01-01
-"van der Vliet, Albert",2023,Professor,,1,1,Pathology and Laboratory Medicine,1.0,,,https://www.med.uvm.edu/pathology/van-der-vliet-lab,,231174,,2024-01-01
-"Van Keuren, Scott",2023,Associate Professor,,1,1,Anthropology,0.0,,,,,231174,,2024-01-01
-"Vanden Bergh, Richard",2023,Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Vannest, Kimberly",2023,Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Velez, Christine",2023,Assistant Professor,,1,0,Social Work,0.0,,,,,231174,,2024-01-01
-"Venugopal, Srinivas",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Vincent, Christelle",2023,Assistant Professor,,1,0,Mathematics and Statistics,0.0,,,,,231174,,2024-01-01
-"Visser, Thomas",2023,Professor,,1,1,History,0.0,,,,,231174,,2024-01-01
-"Vivanco, Luis",2023,Professor,,1,1,Anthropology,0.0,,,,,231174,,2024-01-01
-"Vizcarra, Catalina",2023,Associate Professor,,1,0,Economics,0.0,,,,,231174,,2024-01-01
-"Vizzard,Margaret",2023,Professor,,1,0,Neurological Sciences,1.0,,,https://www.med.uvm.edu/neuro/vizzard_lab,,231174,,2024-01-01
-"VonDoepp,Peter",2023,Professor,,1,1,Political Science,0.0,,,,,231174,,2024-01-01
-"Walberg, Glenn",2023,Associate Professor,,1,1,Grossman School of Business,0.0,,,,,231174,,2024-01-01
-"Waldron,John",2023,Associate Professor,,1,1,Spanish,0.0,,,,,231174,,2024-01-01
-"Walker,Pamela",2023,Assistant Professor,,1,0,History,0.0,,,,,231174,,2024-01-01
-"Walls,Leon",2023,Associate Professor,,1,1,Education,0.0,,,,,231174,,2024-01-01
-"Wang, Qingbin",2023,Professor,,1,1,Community Development and Applied Economics,0.0,,,,,231174,,2024-01-01
-"Ward, Gary",2023,Professor,,1,1,Microbiology and Molecular Genetics,1.0,,,https://wardlab.us/,,231174,,2024-01-01
-"Wargo,Matthew",2023,Associate Professor,,1,1,Microbiology and Molecular Genetics,1.0,,,https://www.med.uvm.edu/mmg/faculty/matt-wargo-ph-dd,,231174,,2024-01-01
-"Warrington, Gregory",2023,Professor,,1,1,Mathematics and Statistics,0.0,,,,,231174,,2024-01-01
-"Warshaw,David",2023,Professor,,1,1,Molecular Physiology and Biophysics,1.0,,,https://physioweb.uvm.edu/warshaw-lab/people/,,231174,,2024-01-01
-"Waterman,Rory",2023,Professor,,1,1,Chemistry,0.0,,,,,231174,,2024-01-01
-"Webb,Laura",2023,Professor,,1,0,Geography and Geosciences,0.0,,,https://sites.google.com/site/laurawebbuvmgeology/home/students,,231174,,2024-01-01
-"Weiner, Matthew",2023,Associate Professor,,1,1,Philosophy,0.0,,,,,231174,,2024-01-01
-"Weinstock,Jacqueline",2023,Associate Professor,,1,0,"Counseling, Human Development and Family Science",0.0,,,,,231174,,2024-01-01
-"Wellman, George",2023,Professor,,1,1,Pharmacology,1.0,,,https://www.med.uvm.edu/pharmacology/wellmanlab,,231174,,2024-01-01
-"Wemple,Beverley",2023,Professor,Beverley Wemple,1,0,Rubenstein School of Environment and Natural Resources,1.0,,A5024754042,https://blog.uvm.edu/bwemple/research-group/,1997.0,231174,,2024-01-01
-"Wengrovius, Carissa",2023,Assistant Professor,,1,0,Rehabilitation and Movement Science,0.0,,,,,231174,,2024-01-01
-"White, Matthew",2023,Associate Professor,,1,1,Physics,0.0,,,,,231174,,2024-01-01
-"Willard-Foster,Melissa",2023,Associate Professor,,1,0,Political Science,0.0,,,,,231174,,2024-01-01
-"Williams,Brittany",2023,Assistant Professor,,1,0,Education,0.0,,,,,231174,,2024-01-01
-"Wilson,James",2023,Professor,,1,1,Mathematics and Statistics,0.0,,,,,231174,,2024-01-01
-"Woolson, Maria",2023,Assistant Professor,,1,0,Spanish,0.0,,,,,231174,,2024-01-01
+"Ballif,Bryan",2023,Professor,,1,1,Biology,1,,a5000554558,https://app.academiclabs.com/research_group/e3KzQstuwzFs,,231174,,2024-01-01
+"Garavan, Hugh",2023,Professor,Hugh Garavan,1,1,Psychological Science,1,,A5001775538,https://nervelab.w3.uvm.edu,,231174,,2024-01-01
+"Danforth, Christopher",2023,Professor,Christopher M. Danforth,1,1,Mathematics and Statistics,1,,A5002034958,https://compstorylab.org/about/,,231174,,2024-01-01
+"Ament, Joseph",2023,Assistant Professor,Joe Ament,1,1,Community Development and Applied Economics,0,,A5002226064,,,231174,,2024-01-01
+"Neher Weicht, Deborah",2023,Professor,,1,0,"Agriculture, Landscape, and Environment",1,,a5002326354,https://site.uvm.edu/dneher/?page_id=32,,231174,,2024-01-01
+"Cannizzaro,Michael",2023,Associate Professor,,1,1,Communication Sciences and Disorders,0,,a5002845482,,,231174,,2024-01-01
+"Lansing, Amy",2023,Assistant Professor,,1,0,Psychological Science,1,,a5003569149,https://site.uvm.edu/hughlanslab/?page_id=8,,231174,,2024-01-01
+"Cockrell,Robert",2023,Assistant Professor,,1,1,Surgery,1,,a5005224275,https://www.med.uvm.edu/ancockrelllab/about,,231174,,2024-01-01
+"Chevalier, Samuel",2023,Assistant Professor,,1,1,Electrical and Biomedical Engineering,1,,a5005388341,,,231174,,2024-01-01
+"Duffaut Espinosa, Luis",2023,Assistant Professor,Luis A. Duffaut Espinosa,1,1,Electrical and Biomedical Engineering,1,,A5005494593,https://www.uvm.edu/cems/ebe/autonomous-and-intelligent-systems-research-air-lab,,231174,,2024-01-01
+"Cuneo, Terence",2023,Professor,Terence Cuneo,1,1,Philosophy,0,,A5005500349,,,231174,,2024-01-01
+"Vigoreaux,Jim",2023,Professor,,1,1,Biology,1,,a5005522625,https://www.researchgate.net/lab/Jim-O-Vigoreaux-Lab,,231174,,2024-01-01
+"Hinkelman,Kathryn ",2023,Assistant Professor,,1,0,Civil and Environmental Engineering,1,,a5005762300,https://www.theseelab.org/,,231174,"for some reasons, she wasn't in the payroll",2024-01-01
+"Huston, Christopher",2023,Professor,,1,1,Medicine,1,,a5005985454,http://www.med.uvm.edu/vciid/lab_huston,,231174,,2024-01-01
+"Keeton, William",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1,,a5006901996,,,231174,he says that he directs the UVM Carbon Dynamics Lab in his CV.,2024-01-01
+"Borra, Antonello",2023,Professor,,1,1,French and Italian,0,,a5007594505,,,231174,,2024-01-01
+"Dewoolkar,Mandar",2023,Professor,Mandar M. Dewoolkar,1,1,Civil and Environmental Engineering,1,,A5008146559,https://site.uvm.edu/mdewoolk/,,231174,,2024-01-01
+"Castro, Eliana",2023,Assistant Professor,Eliana Castro,1,0,Education,0,,A5008683066,,,231174,,2024-01-01
+"Hammack,Sayamwong",2023,Professor,,1,1,Psychological Science,1,,a5008847401,https://www.researchgate.net/profile/Sayamwong-Hammack,,231174,,2024-01-01
+"Aiyar, Anaka",2023,Assistant Professor,,1,1,Community Development and Applied Economics,0,,a5008985646,,2011,231174,,2024-01-01
+"Kirkpatrick,Beth",2023,Professor,Beth D. Kirkpatrick,1,0,Microbiology and Molecular Genetics,1,,A5010472783,https://www.med.uvm.edu/tgircobre/home,,231174,,2024-01-01
+"Blom, Deborah",2023,Associate Professor,Deborah E. Blom,1,0,Anthropology,0,,A5010615491,,,231174,,2024-01-01
+"Fisher, Brendan",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1,,a5010739172,https://blog.uvm.edu/bfisher-ecos/,,231174,,2024-01-01
+"Bentil,Daniel",2023,Associate Professor,,1,1,Mathematics and Statistics,0,,a5010744577,,,231174,,2024-01-01
+"Carthew,Jessica",2023,Associate Professor,Jessica DeMink-Carthew,1,0,Education,0,,A5010948910,,,231174,,2024-01-01
+"Beam, Emily",2023,Associate Professor,,1,0,Economics,0,,a5011360985,,,231174,,2024-01-01
+"Dupigny-Giroux,Lesley-Ann",2023,Professor,Lesley‐Ann Dupigny‐Giroux,1,0,Geography and Geosciences,0,,A5012783921,,,231174,,2024-01-01
+"Cepeda-Benito,Antonio",2023,Professor,,1,1,Grossman School of Business,1,,a5013355577,https://www.uvm.edu/~ccpsych/theteam.html,,231174,,2024-01-01
+"Bates,Jason",2023,Professor,,1,1,Medicine,1,,a5014570718,https://www.researchgate.net/lab/Jason-Bates-Lab,1989,231174,,2024-01-01
+"Dauerman, Harold",2023,Professor,,1,1,Medicine; Surgery,0,,a5014700972,,,231174,,2024-01-01
+"Alexander,Sarah",2023,Associate Professor,,1,0,English,0,,a5014723293,,,231174,,2024-01-01
+"Callahan, Rebecca",2023,Professor,,1,0,Education,0,,a5014853497,,,231174,,2024-01-01
+"Arel,Barbara",2023,Associate Professor,Barbara Arel,1,0,Grossman School of Business,0,,A5014963201,,,231174,,2024-01-01
+"Parker, Bruce",2023,Professor,,1,1,"Agriculture, Landscape, and Environment",1,,a5015290549,https://www.uvm.edu/~entlab/,,231174,,2024-01-01
+"Higgins,Stephen",2023,Professor,,1,1,Psychological Science,1,,a5015787795,https://www.researchgate.net/lab/Stephen-T-Higgins-Lab,,231174,,2024-01-01
+"Doiron, Amber",2023,Assistant Professor,Amber L. Doiron,1,0,Electrical and Biomedical Engineering,1,,A5016061803,https://site.uvm.edu/bnb/,,231174,,2024-01-01
+"Chiu, Angeline",2023,Associate Professor,,1,0,Classics,0,,a5016379063,,,231174,,2024-01-01
+"Danks,Cecilia",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,0,,a5016511835,,,231174,,2024-01-01
+"Belarmino,Emily",2023,Assistant Professor,Emily H. Belarmino,1,0,Nutrition and Food Sciences,0,,A5016548616,,,231174,,2024-01-01
+"Stanley, Molly",2023,Assistant Professor,,1,0,Biology,1,,a5016604588,https://mstanleylab.weebly.com/people.html,2013,231174,,2024-01-01
+"Conroy,Nicole",2023,Assistant Professor,Nicole E. Conroy,1,0,"Counseling, Human Development and Family Science",0,,A5017116907,,2013,231174,,2024-01-01
+"Conner,David",2023,Professor,David S. Conner,1,1,Community Development and Applied Economics,0,,A5019140171,,,231174,,2024-01-01
+"Dumas,Julie",2023,Professor,Julie A. Dumas,1,0,Psychiatry,1,,A5019605511,,,231174,,2024-01-01
+"Feng, Yuanyuan",2023,Assistant Professor,,1,0,Computer Science,1,,a5020275989,https://yuanyuanfeng.com/research/,,231174,"no mention of groups, but we know Yuanyuan as quite a few students.",2024-01-01
+"Janssen-Heininger, Yvonne",2023,Professor,,1,0,Pathology and Laboratory Medicine,1,,a5020783528,https://www.med.uvm.edu/pathology/janssen-lab_new,,231174,,2024-01-01
+"Bonney, Elizabeth",2023,Professor,Elizabeth A. Bonney,1,0,"Obstetrics, Gynecology and Reproductive Sciences",1,,A5023419188,https://www.med.uvm.edu/obgyn/research/lab_bonney,,231174,,2024-01-01
+"Cushman,Mary",2023,Professor,,1,0,Medicine,0,,a5023858070,,,231174,no group but co-director of https://www.uvm.edu/larnermed/vccbh/about-vccbh,2024-01-01
+"Single,Richard",2023,Associate Professor,Richard M. Single,1,1,Mathematics and Statistics,0,,A5024849718,,,231174,,2024-01-01
+"Bernstein, Ira",2023,Professor,,1,1,"Obstetrics, Gynecology and Reproductive Sciences",1,,a5025702790,https://www.med.uvm.edu/obgyn/bernsteinlab,1987,231174,,2024-01-01
+"Jangraw, David",2023,Assistant Professor,David C. Jangraw,1,1,Electrical and Biomedical Engineering,1,,A5026763824,https://www.uvm.edu/~brainlab/index.html#team,2007,231174,,2024-01-01
+"Clougherty,Dennis",2023,Professor,,1,1,Physics,0,,a5026988863,,,231174,,2024-01-01
+"Botten, Jason",2023,Professor,,1,1,Medicine,0,,a5027340620,,,231174,,2024-01-01
+"Fanslow, Yolanda",2023,Professor,Yolanda H. Chen,1,0,Biology,1,9,A5029745678,https://blog.uvm.edu/yfanslow/people/,,231174,,2024-01-01
+"Bonifield,Carolyn",2023,Associate Professor,,1,0,Grossman School of Business,0,,a5029861842,,,231174,,2024-01-01
+"Cahan,Sara",2023,Associate Professor,Sara Helms Cahan,1,0,Biology,1,,A5029896488,http://shelmscahan.github.io/Index2.html,,231174,,2024-01-01
+"Abaied,Jamie",2023,Associate Professor,Jamie L. Abaied,1,0,Psychological Science,1,,A5030384293,,,231174,,2024-01-01
+"Deming, Paula",2023,Associate Professor,,1,1,Biomedical and Health Sciences,1,,a5030675455,,,231174,,2024-01-01
+"Feldman,Jan",2023,Professor,Jan Feldman,1,0,Political Science,0,,A5030981885,,,231174,,2024-01-01
+"Lian,Jane",2023,Professor,,1,0,Biochemistry,1,,a5031362021,https://www.med.uvm.edu/biochemistry/steinlianlab/principalinvesigators,,231174,,2024-01-01
+"Bernard,Emily",2023,Professor,Emily Bernard,1,0,English,0,,A5031469576,,,231174,,2024-01-01
+"Scarborough,Matthew",2023,Assistant Professor,,1,1,Civil and Environmental Engineering,1,,a5031617048,https://www.emerglab.org/home/our-team,,231174,,2024-01-01
+"Mendez, Victor",2023,Professor,,1,1,"Agriculture, Landscape, and Environment",1,,a5031789321,https://www.researchgate.net/lab/V-Ernesto-Mendez-Lab,,231174,,2024-01-01
+"Cole,Bernard",2023,Professor,Bernard F. Cole,1,1,Mathematics and Statistics,0,,A5033544452,,2000,231174,,2024-01-01
+"Angelopoulos, Theodore",2023,Professor,Theodore J. Angelopoulos,1,1,Rehabilitation and Movement Science,0,,A5033621367,,,231174,,2024-01-01
+"Francklyn, Christopher",2023,Professor,,1,1,Biochemistry,1,,a5033892718,https://www.med.uvm.edu/biochemistry/lab_francklyn_research,,231174,,2024-01-01
+"Bishop-von Wettberg,Eric",2023,Professor,Eric J. B. von Wettberg,1,1,"Agriculture, Landscape, and Environment",1,,A5034453011,https://ebishopv.wixsite.com/cropdomesticationlab/people,,231174,,2024-01-01
+"Adair,Elizabeth",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,a5034560073,https://adairlab.weebly.com/team.html,,231174,,2024-01-01
+"Hebert-Dufresne,Laurent",2023,Associate Professor,Laurent Hébert‐Dufresne,1,1,Computer Science,1,,A5035455593,https://joint-lab.github.io/people,,231174,,2024-01-01
+"Price,Matthew",2023,Professor,Matthew Price,1,1,Psychological Science,1,,A5036140974,https://www.crestresearch.org//,2006,231174,,2024-01-01
+"Cheung, Katharine",2023,Assistant Professor,,1,0,Medicine,0,,a5036833355,,,231174,,2024-01-01
+"Badireddy,Appala Raju",2023,Associate Professor,Appala Raju Badireddy,1,1,Civil and Environmental Engineering,1,,A5037146310,https://arbadireddy.wixsite.com/uvmcee/members,,231174,,2024-01-01
+"Howe, Alan",2023,Professor,,1,1,Pharmacology,1,,a5037781469,https://www.uvm.edu/~howelab/people.html,1992,231174,,2024-01-01
+"Ou, Yangguang",2023,Assistant Professor,,1,0,Chemistry,1,,a5040072620,https://theoulab.squarespace.com/team-1,,231174,,2024-01-01
+"Beynnon,Bruce",2023,Professor,,1,1,Orthopaedics and Rehabilitation,0,,a5040283299,https://www.researchgate.net/lab/Bruce-Beynnon-Lab,,231174,,2024-01-01
+"Dempsey, Stephen",2023,Associate Professor,,1,1,Grossman School of Business,0,,a5040491225,,,231174,,2024-01-01
+"Dodds, Peter",2023,Professor,Peter Sheridan Dodds,1,1,Mathematics and Statistics,1,,A5040821463,https://compstorylab.org/about/,1999,231174,,2024-01-01
+"Lockwood,Brent",2023,Associate Professor,,1,1,Biology,1,,a5041011145,https://lockwoodlab.weebly.com/people.html,2004,231174,,2024-01-01
+"Perdrial,Julia",2023,Associate Professor,,1,0,Geography and Geosciences,1,,a5041409879,http://www.juliaperdrial.com/people.html,,231174,,2024-01-01
+"Hoza,Betsy",2023,Professor,,1,0,Psychological Science,1,,a5042340308,https://www.uvm.edu/catsmove/faculty-and-graduate-students,,231174,she calls it a research group,2024-01-01
+"Amiel,Eyal",2023,Associate Professor,Eyal Amiel,1,1,Biomedical and Health Sciences,1,,A5042866760,,,231174,,2024-01-01
+"Frietze, Seth",2023,Associate Professor,,1,1,Biomedical and Health Sciences,1,,a5042896751,https://site.uvm.edu/frietzelab/?page_id=26,,231174,,2024-01-01
+"Chiang,Kevin",2023,Professor,,1,1,Grossman School of Business,0,,a5044029164,,,231174,,2024-01-01
+"Hondal, Robert",2023,Professor,,1,1,Biochemistry,1,,a5045212720,https://www.med.uvm.edu/biochemistry/lab_hondal_labmembers,,231174,,2024-01-01
+"Crock,John",2023,Associate Professor,John G. Crock,1,1,Anthropology,0,,A5046250286,,,231174,,2024-01-01
+"Bruce,Emily",2023,Assistant Professor,,1,1,Microbiology and Molecular Genetics,1,,a5046430560,https://emilybrucelab.com/people/,2010,231174,,2024-01-01
+"deRosset, Louis",2023,Professor,,1,1,Philosophy,0,,a5046801350,,,231174,,2024-01-01
+"Fox, Kathryn",2023,Professor,,1,0,Sociology,1,,a5047152658,https://www.researchgate.net/lab/Kathryn-J-Fox-Lab,,231174,,2024-01-01
+"Brouwer Burg,Marieka",2023,Assistant Professor,,1,0,Anthropology,0,,a5048480750,,,231174,,2024-01-01
+"Perdrial,Nicolas",2023,Assistant Professor,,1,1,Geography and Geosciences,1,,a5048613602,https://nicolasperdrial.weebly.com/lab-and-people.html,,231174,,2024-01-01
+"Brennan, Vicki",2023,Associate Professor,Vicki L. Brennan,1,0,Religion,0,,A5049222482,,,231174,,2024-01-01
+"Boyson,Jonathan",2023,Professor,,1,1,Surgery,1,,a5049274599,https://www.med.uvm.edu/boysonlab/home,,231174,,2024-01-01
+"Acquisto,Joseph",2023,Professor,,1,1,French and Italian,0,,a5049409973,,,231174,,2024-01-01
+"Brewer, Matthias",2023,Professor,,1,1,Chemistry,1,,a5050101738,https://www.researchgate.net/lab/Matthias-Brewer-Lab,,231174,,2024-01-01
+"Deng, Bin",2023,Research Professor,,1,0,Biology,0,,a5050393620,,,231174,,2024-01-01
+"Burt, Keith",2023,Associate Professor,,1,1,Psychological Science,0,,a5051985654,,,231174,,2024-01-01
+"Petrucci, Giuseppe",2023,Professor,,1,1,Chemistry,1,,a5052009391,https://blog.uvm.edu/gpetrucc/people/,1987,231174,,2024-01-01
+"Caporizzo, Matthew",2023,Assistant Professor,,1,1,Molecular Physiology and Biophysics,1,,a5052355819,https://www.caporizzolab.org/teamm,,231174,,2024-01-01
+Callery Patrick,2023,Assistant Professor,,1,1,Grossman School of Business,0,,a5052810664,,,231174,,2024-01-01
+"Herrera,Gerald ",2023,Assistant Professor (COM) ,,1,1,Pharmacology,1,,a5053147031,https://herreralabs.com/lab-team/,,231174,,2024-01-01
+"Borchert, Thomas",2023,Professor,,1,1,Religion,0,,a5053150923,,,231174,,2024-01-01
+"Almassalkhi,Mads",2023,Associate Professor,Mads Almassalkhi,1,1,Electrical and Biomedical Engineering,1,,A5053327116,https://madsalma.github.io/people.html,,231174,,2024-01-01
+"Failla, Mathew",2023,Associate Professor,Mathew Failla,1,1,Rehabilitation and Movement Science,0,,a5053427181,,,231174,,2024-01-01
+"May Collado,Laura",2023,Assistant Professor,,1,0,Biology,1,,a5054296464,http://www.lauramay-collado.com/our-lab.html,,231174,,2024-01-01
+"Erdos, Benedek",2023,Associate Professor,,1,1,Pharmacology,1,3,a5054686016,https://www.med.uvm.edu/pharmacology/erdoslab,2001,231174,,2024-01-01
+"Chatterjee,Nimrat",2023,Assistant Professor,,1,1,Microbiology and Molecular Genetics,1,,a5054824999,https://www.chatterjeen-lab.com/members-1,,231174,,2024-01-01
+"Comerford,Susan",2023,Associate Professor,,1,0,Social Work,0,,a5055852542,,,231174,,2024-01-01
+"Cope,Meghan",2023,Professor,Meghan Cope,1,0,Geography and Geosciences,0,,A5056414452,,,231174,,2024-01-01
+"Everse, Stephen",2023,Associate Professor,Stephen J. Everse,1,1,Biochemistry,1,,a5056931515,,,231174,,2024-01-01
+"Beer, Caroline",2023,Professor,,1,0,Political Science,0,,a5058128585,,,231174,,2024-01-01
+"D'Amato, Anthony",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1,,a5058304577,https://site.uvm.edu/tdamato/?page_id=49,,231174,,2024-01-01
+"Pespeni,Melissa",2023,Associate Professor,,1,0,Biology,1,,a5058854710,https://blog.uvm.edu/mpespeni/,,231174,,2024-01-01
+"Carter, Chalais",2023,Assistant Professor,,1,0,Education,0,,a5059832943,,,231174,,2024-01-01
+"Bailly,Jacques",2023,Associate Professor,,1,1,Classics,0,,a5060287667,,1998,231174,,2024-01-01
+"Buzas,Jeff",2023,Professor,Jeffrey S. Buzas,1,1,Mathematics and Statistics,0,,A5060478670,,,231174,,2024-01-01
+"Keller,Stephen",2023,Associate Professor,,1,1,Plant Biology,1,,a5060633808,https://kellerlab.weebly.com/people.html,,231174,,2024-01-01
+"Near,Joseph",2023,Assistant Professor,,1,1,Computer Science,0,,a5061707651,https://www.uvm.edu/~jnear/#students,,231174,but associated with https://compsec.w3.uvm.edu/,2024-01-01
+"Bagrow,James",2023,Associate Professor,James P. Bagrow,1,1,Mathematics and Statistics,1,,A5062403203,https://bagrow.com/people/,,231174,,2024-01-01
+"Morielli, Anthony",2023,Associate Professor,Anthony D. Morielli,1,1,Pharmacology,0,,a5062626999,,,231174,,2024-01-01
+"Langevin, Scott",2023,Associate Professor,,1,1,Medicine,1,,a5062946342,https://www.researchgate.net/lab/Langevin-lab-Scott-M-Langevin,,231174,,2024-01-01
+"Anathy, Vikas",2023,Professor,,1,1,Pathology and Laboratory Medicine,1,,a5063274084,https://www.med.uvm.edu/pathology/anathylab_new,,231174,,2024-01-01
+"Bradshaw, Terence",2023,Associate Professor,,1,1,"Agriculture, Landscape, and Environment",0,,a5063690586,,,231174,No groups but he is really good at farming https://blog.uvm.edu/tbradsha/,2024-01-01
+"Crocker, Abigail",2023,Associate Professor,Abigail Crocker,1,0,Mathematics and Statistics,0,,A5063968442,,,231174,,2024-01-01
+"Toufexis,Donna",2023,Professor,Donna Toufexis,1,0,Psychological Science,1,,A5063974887,https://www.uvm.edu/cas/psychology/profiles/donna-toufexis-biobehavioral,,231174,,2024-01-01
+"Beckage,Brian",2023,Professor,Brian Beckage,1,1,Computer Science,1,,A5064679606,https://brianbeckage.github.io/lab.html,,231174,,2024-01-01
+"Barnaby, Andrew",2023,Professor,,1,1,English,0,,a5065482485,,,231174,,2024-01-01
+"Wollenberg,Eva",2023,Research Professor,,1,0,Rubenstein School of Environment and Natural Resources,0,,a5065504214,,,231174,,2024-01-01
+"Quenet, Delphine",2023,Assistant Professor,,1,0,Biochemistry,1,,a5065643291,https://www.med.uvm.edu/biochemistry/lab---quenet,,231174,,2024-01-01
+"Bierman,Paul",2023,Professor,Paul R. Bierman,1,1,Rubenstein School of Environment and Natural Resources,1,4,A5065669012,https://www.uvm.edu/cosmolab/students.html,1985,231174,,2024-01-01
+"Coderre,Emily",2023,Assistant Professor,Emily L. Coderre,1,0,Communication Sciences and Disorders,0,,A5066307333,,,231174,,2024-01-01
+"Bongard,Joshua",2023,Professor,Josh Bongard,1,1,Computer Science,1,,A5066791342,https://www.meclab.org/people,,231174,,2024-01-01
+"Backman,Spencer",2023,Assistant Professor,Spencer Backman,1,1,Mathematics and Statistics,0,,A5066800852,,,231174,,2024-01-01
+"Punihaole,David",2023,Assistant Professor,,1,1,Chemistry,1,,a5066993330,https://thepunihaolegroup.squarespace.com/group-members,,231174,,2024-01-01
+"Pandey, Amritanshu",2023,Assistant Professor,,1,1,Electrical and Biomedical Engineering,1,,a5067002514,https://www.amrit-pandey.com/,,231174,,2024-01-01
+"Commercio,Michele",2023,Professor,,1,1,Political Science,0,,a5067076795,,,231174,,2024-01-01
+"Headrick,Randall",2023,Professor,,1,1,Physics,1,,a5069684912,https://www.researchgate.net/lab/Randall-L-Headrick-Lab,,231174,,2024-01-01
+"Ebert, Alicia",2023,Associate Professor,Alicia M. Ebert,1,0,Biology,1,,A5070253378,https://blog.uvm.edu/amebert/people/,,231174,,2024-01-01
+Cardoso Costa,2023,Associate Professor,J.H.C. Costa,1,1,Animal and Veterinary Sciences,1,,a5070545248,https://costalab.weebly.com/people.html,,231174,,2024-01-01
+"Dixon, Anne",2023,Professor,,1,0,Medicine,0,,a5070720713,,1994,231174,,2024-01-01
+"Celli,Jean",2023,Professor,Jean-Gabriel Young,1,1,Mathematics and Statistics,1,,A5070850590,https://joint-lab.github.io/people,,231174,,2024-01-01
+"Jefferson,Anne",2023,Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,a5072210910,https://all-geo.org/jefferson/people/,,231174,,2024-01-01
+"Clark Keefe,Kelly",2023,Professor,Kelly Clark/Keefe,1,0,Education,0,,A5073802469,,,231174,,2024-01-01
+"Cipolla,Marilyn",2023,Professor,,1,0,Neurological Sciences; Electrical and Biomedical Engineering,1,,a5074235895,https://www.med.uvm.edu/neuro/cipolla_lab/people,,231174,,2024-01-01
+"Etter, Andrea",2023,Assistant Professor,Andrea J. Etter,1,0,Nutrition and Food Sciences,1,10,A5074355050,https://www.researchgate.net/lab/Andrea-J-Etter-Lab,,231174,,2024-01-01
+"Andersen, Ellen",2023,Associate Professor,Ellen Ann Andersen,1,0,Political Science,0,,A5074398027,,2001,231174,,2024-01-01
+"Carlson,Matthew",2023,Professor,,1,1,Political Science,0,,a5074460980,,,231174,,2024-01-01
+"Brody, Alison",2023,Professor,Alison K. Brody,1,0,Biology,1,,A5074708105,http://www.akbrody.com/lab%20members.html,,231174,,2024-01-01
+"Berger, Christopher",2023,Professor,Christopher L. Berger,1,1,Molecular Physiology and Biophysics,0,,A5075679004,,,231174,,2024-01-01
+"Chan,Sin- Yee",2023,Professor,,1,0,Philosophy,0,,a5076146366,,,231174,,2024-01-01
+"Bernstein, David",2023,Assistant Professor,,1,1,Electrical and Biomedical Engineering,0,,a5076884495,https://www.uvm.edu/cems/ebe/research-highlights,2014,231174,,2024-01-01
+"Cats-Baril, William",2023,Associate Professor,,1,1,Psychological Science,1,,a5077022082,,,231174,,2024-01-01
+"Gorres,Josef",2023,Professor,,1,1,"Agriculture, Landscape, and Environment",1,,a5077198528,https://blog.uvm.edu/jgorres/people/,,231174,,2024-01-01
+"Barlow,John",2023,Associate Professor,,1,1,Animal and Veterinary Sciences,0,,a5077572554,,1997,231174,,2024-01-01
+"Ahmmad,Zobayer",2023,Assistant Professor,,1,1,Sociology,0,,a5077733558,,,231174,,2024-01-01
+"Bessette,Jean",2023,Associate Professor,,1,0,English,0,,a5078189369,,,231174,,2024-01-01
+"Liptak,Matthew",2023,Professor,,1,1,Chemistry,1,,a5078803587,https://mliptak.w3.uvm.edu/people.html,,231174,,2024-01-01
+"Ahern, Thomas",2023,Associate Professor,Thomas P. Ahern,1,1,Surgery,0,,A5079241058,,2000,231174,,2024-01-01
+"Gould, Rachelle",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,a5079985070,https://gouldgroup.weebly.com/people.html,,231174,,2024-01-01
+"Niles, Meredith",2023,Associate Professor,Meredith T. Niles,1,0,Nutrition and Food Sciences,1,,A5080871120,https://www.meredithtniles.com/students,,231174,,2024-01-01
+"Kelm,Robert",2023,Associate Professor,,1,1,Biochemistry,1,,a5080873801,https://www.med.uvm.edu/biochemistry/lab_kelm_labmembers,,231174,,2024-01-01
+"Stein,Janet",2023,Professor,,1,0,Biochemistry,1,,a5081119848,https://www.med.uvm.edu/biochemistry/steinlianlab/home,1970,231174,,2024-01-01
+"Delaney, Terrence",2023,Associate Professor,Terrence P. Delaney,1,1,Plant Biology,1,,A5081523526,https://www.uvm.edu/~tpdelane/lab/people.html,,231174,,2024-01-01
+"Bolh,Nathalie",2023,Professor,Nathalie Mathieu-Bolh,1,0,Economics,0,,A5082336655,,,231174,,2024-01-01
+"Fiorentino,Niccolo",2023,Assistant Professor,,1,1,Mechanical Engineering,1,,a5082463471,https://www.uvm.edu/~nfiorent/?_ga=2.139357875.1846055330.1722259314-695988312.1662757673,,231174,,2024-01-01
+"Glass, Karen",2023,Associate Professor,,1,0,Pharmacology,1,,a5082939157,https://www.med.uvm.edu/pharmacology/glass_lab,2009,231174,,2024-01-01
+"Bomblies, Arne",2023,Associate Professor,Arne Bomblies,1,1,Civil and Environmental Engineering,0,,A5085014912,,,231174,,2024-01-01
+"Gotelli,Nicholas",2023,Professor,Nicholas J. Gotelli,1,1,Biology,1,,A5085232359,https://www.uvm.edu/~ngotelli/homepage.html,,231174,,2024-01-01
+"Toolin, Regina",2023,Associate Professor,,1,0,Education,1,,a5085455189,https://www.researchgate.net/lab/Regina-Toolin-Lab,,231174,,2024-01-01
+"Rowangould, Gregory",2023,Associate Professor,,1,1,Civil and Environmental Engineering,1,,a5085946010,https://www.researchgate.net/lab/Gregory-M-Rowangould-Lab,,231174,,2024-01-01
+"Cunniff,Brian",2023,Assistant Professor,Brian Cunniff,1,1,Pathology and Laboratory Medicine,1,,A5085980410,http://www.med.uvm.edu/cunnifflab/labmembers,,231174,,2024-01-01
+"Bauerly,Kimberly",2023,Assistant Professor,Kim R. Bauerly,1,0,Communication Sciences and Disorders,1,,A5086274493,https://www.uvm.edu/cnhs/csd/speech-fluency-lab,,231174,,2024-01-01
+"Bose, Pablo",2023,Professor,Pablo S. Bose,1,1,Geography and Geosciences,0,,A5086838547,,,231174,,2024-01-01
+"Arambula Turner, Tracy",2023,Associate Professor,,1,0,Education,0,,a5087146071,,,231174,,2024-01-01
+"Brieant, Alexis",2023,Assistant Professor,,1,0,Psychological Science,1,,a5087248140,https://www.fernlab-uvm.com/people,,231174,,2024-01-01
+"Carr, Frances",2023,Professor,Frances E. Carr,1,0,Pharmacology,1,,A5087721092,https://www.med.uvm.edu/pharmacology/carrlabpersonnel,,231174,,2024-01-01
+"Harris,Jeanne",2023,Professor,,1,0,Plant Biology,1,,a5088037315,https://jeannemharrislab.weebly.com/people.html,,231174,,2024-01-01
+"Harraz, Osama",2023,Assistant Professor,,1,1,Pharmacology,1,,a5088271995,https://harrazlab.com/team,,231174,,2024-01-01
+"Freeman, Kalev",2023,Associate Professor,,1,1,Emergency Medicine,1,,a5088601829,https://www.trauma-lab.science/research,,231174,,2024-01-01
+"Heath,Jessica",2023,Associate Professor,,1,0,Biochemistry,1,,a5089340511,https://www.med.uvm.edu/biochemistry/lab---heath-lab-members,,231174,,2024-01-01
+"Althoff,Robert",2023,Associate Professor,,1,1,Psychiatry; Pediatrics,0,,a5089482475,,,231174,,2024-01-01
+"Aslakson,Rebecca",2023,Professor,Rebecca Aslakson,1,0,Anesthesiology,0,,A5090345791,,,231174,,2024-01-01
+"Farley,Joshua",2023,Professor,Joshua Farley,1,1,Community Development and Applied Economics,0,,a5090686681,,2004,231174,,2024-01-01
+"Diehl,Sean",2023,Associate Professor,Sean A. Diehl,1,0,Microbiology and Molecular Genetics,1,,A5090816940,https://www.med.uvm.edu/mmg/faculty/sean-diehl-phd,,231174,,2024-01-01
+"Bhurosy, Trishnee",2023,Assistant Professor,,1,0,Nutrition and Food Sciences,1,,a5091823137,https://www.researchgate.net/lab/Trishnee-Bhurosy-Lab,,231174,,2024-01-01
+"Weiss, Daniel",2023,Professor,,1,1,Electrical and Biomedical Engineering; Medicine,1,,a5101459958,https://weisspulmonarylab.org/currentlabmembers,2003,231174,,2024-01-01
+"Hernandez,Eric",2023,Associate Professor,,1,1,Civil and Environmental Engineering,1,,a5101677824,https://www.researchgate.net/lab/Structural-Monitoring-Diagnostics-and-Prognostics-Lab-Eric-Hernandez,,231174,,2024-01-01
+"Guo, Ming",2023,Professor,,1,1,Nutrition and Food Sciences,1,,a5101907134,https://www.uvm.edu/~mguo/laboratory.html,,231174,,2024-01-01
+"Hurley,Stephanie",2023,Associate Professor,,1,0,"Agriculture, Landscape, and Environment",1,,a5103029769,https://www.uvm.edu/cals/ale/hurley-lab,,231174,,2024-01-01
+"Stein, Gary",2023,Professor,Gary S. Stein,1,1,Biochemistry,1,,a5103217263,https://www.med.uvm.edu/biochemistry/steinlianlab/home,1970,231174,,2024-01-01
+"Ades, Philip",2023,Professor,,1,1,Medicine,0,,a5108368069,,,231174,,2024-01-01
+"C. Ewald,Alec ",2023,Associate Professor,Alec C. Ewald,1,1,Political Science,0,,a5109486647,,,231174,,2024-01-01
+"Ivakhiv,Adrian",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1,,a5110213117,https://ecoculturelab.net/,,231174,,2024-01-01
+"De Witt, Rocki-Lee",2023,Professor,,1,0,Grossman School of Business,0,,a5110344908,,,231174,,2024-01-01
+"Diouf,Moustapha",2023,Associate Professor,,1,1,Sociology,0,,a5111431318,,,231174,,2024-01-01
+"Cheney,Nicholas",2023,Assistant Professor,Nick Cheney,1,1,Computer Science,1,,a5112965505,https://www.uvm.edu/neurobotics/people,,231174,,2024-01-01
+"Fletcher,Douglas",2023,Professor,,1,1,Mechanical Engineering,0,,a5113506566,https://site.uvm.edu/plasma_lab/?page_id=16,,231174,,2024-01-01
+"Gramling,Robert",2023,Professor,Robert Gramling,1,1,Family Medicine,1,,a5113777237,https://vermontconversationlab.com/about/,,231174,,2024-01-01
+"Dickerman,Joseph",2023,Professor,,1,1,Pediatrics,0,,a5113979503,,,231174,,2024-01-01
+"Barnett,Julian",2023,Assistant Professor,,1,1,Theatre and Dance,0,,,,,231174,,2024-01-01
+"Baruth, Philip",2023,Professor,,1,1,English,0,,a5034069923,,,231174,,2024-01-01
+"Beltre,Mildred",2023,Professor,,1,0,Art and Art History,0,,,,,231174,But she is involved in https://site.uvm.edu/cas-experiential-learning/?page_id=75,2024-01-01
+"Besaw Jr, Paul",2023,Professor,,1,1,Theatre and Dance,0,,,,,231174,,2024-01-01
+"Bottoms, Gregory",2023,Professor,,1,1,English,0,,,,,231174,,2024-01-01
+"Brown,Stephen",2023,Associate Professor,,1,1,"Obstetrics, Gynecology and Reproductive Sciences",0,,,,,231174,,2024-01-01
+"Budington, Steve",2023,Associate Professor,,1,1,Art and Art History,0,,,,,231174,,2024-01-01
+"Choi,Sooran",2023,Assistant Professor,,1,0,Art and Art History,0,,,,,231174,,2024-01-01
+"Do, Hung",2023,Associate Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Doggett, Tyler",2023,Professor,,1,1,Philosophy,0,,,,,231174,,2024-01-01
+"Dostmann, Wolfgang",2023,Professor,,1,1,Pharmacology,1,,,,,231174,,2024-01-01
+"Doublie,Sylvie",2023,Professor,,1,0,Microbiology and Molecular Genetics,0,,,,,231174,,2024-01-01
+"Dubief, Yves",2023,Associate Professor,,1,1,Mechanical Engineering,0,,,,,231174,,2024-01-01
+"Dupuy, Taylor",2023,Assistant Professor,,1,1,Mathematics and Statistics,0,,,,,231174,,2024-01-01
+"Eberhardt, Maeve",2023,Associate Professor,,1,0,Linguistics,0,,,,,231174,,2024-01-01
+"Ehret,Danielle",2023,Associate Professor,,1,0,Pediatrics,0,,,,,231174,,2024-01-01
+"Elliott,Anna",2023,Associate Professor,,1,0,"Counseling, Human Development and Family Science",0,,,,,231174,no group but see https://site.uvm.edu/restorativepractices/,2024-01-01
+"Ellis, Deborah",2023,Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Emery,Meaghan",2023,Associate Professor,,1,0,French and Italian,0,,,,,231174,,2024-01-01
+"Ergene,Bogac",2023,Professor,,1,1,History,0,,,,,231174,,2024-01-01
+"Erickson,Jon",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,0,,,,,231174,,2024-01-01
+"Escaja, Tina",2023,Professor,,1,0,Spanish,0,,,,,231174,,2024-01-01
+"Esselstrom,Erik",2023,Professor,,1,1,History,0,,,,,231174,,2024-01-01
+"Etzion, Dror",2023,Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Fenton, Elizabeth",2023,Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Feurzeig, David",2023,Professor,,1,1,Music,0,,,,,231174,,2024-01-01
+"Field,Sean",2023,Professor,,1,1,History,0,,,,,231174,,2024-01-01
+"Finette,Barry",2023,Professor,,1,1,Microbiology and Molecular Genetics; Pediatrics,0,,,,,231174,,2024-01-01
+"Floreani, Rachael",2023,Associate Professor,,1,0,Mechanical Engineering,0,,,,,231174,,2024-01-01
+"Flores, Yolanda",2023,Associate Professor,,1,0,Spanish,0,,,,,231174,,2024-01-01
+"Fook,Janis",2023,Professor,,1,0,Social Work,0,,,,,231174,,2024-01-01
+"Fothergill, Alice",2023,Professor,,1,0,Sociology,0,,,,,231174,,2024-01-01
+"Franklin,John",2023,Professor,,1,1,Classics,0,,,,,231174,,2024-01-01
+"Fraser,Pamela",2023,Associate Professor,,1,1,Theatre and Dance,0,,,,,231174,,2024-01-01
+"Frolik,Jeff",2023,Professor,,1,1,Electrical and Biomedical Engineering,1,,,,,231174,,2024-01-01
+"Gamble,Edward",2023,Assistant Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Garcia, Luis",2023,Professor,,1,1,Civil and Environmental Engineering,0,,,,,231174,,2024-01-01
+"Garlick,Alexander",2023,Assistant Professor,,1,1,Political Science,0,,,,,231174,,2024-01-01
+"Garnett, Bernice",2023,Associate Professor,,1,0,Education,0,,,,,231174,no group but see https://www.uvm.edu/cess/catamount-community-schools-collaborative-ccsc,2024-01-01
+"Garvey,Jason",2023,Associate Professor,,1,1,Education,0,,,,,231174,,2024-01-01
+"Garwood,Justin",2023,Associate Professor,,1,1,Education,0,,,,,231174,,2024-01-01
+"Gell, Nancy",2023,Associate Professor,,1,0,Rehabilitation and Movement Science,0,,,,,231174,,2024-01-01
+"Gennari,John",2023,Professor,,1,1,English,0,,,,,231174,,2024-01-01
+"Ghazanfari, Ehsan",2023,Associate Professor,,1,1,Civil and Environmental Engineering,0,,,,,231174,,2024-01-01
+"Gierzynski,Anthony",2023,Professor,,1,1,Political Science,0,,,,,231174,,2024-01-01
+"Gilmartin, Gregory",2023,Associate Professor,,1,1,Microbiology and Molecular Genetics,0,,,,,231174,,2024-01-01
+"Ginger, Clare",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,0,,,,,231174,,2024-01-01
+"Glavas, Ante",2023,Associate Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Gleason,Kelsey",2023,Assistant Professor,,1,0,Biomedical and Health Sciences,0,,,,,231174,,2024-01-01
+"Gorenstein Massa, Felipe",2023,Associate Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Gough,Kathleen",2023,Associate Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Gove, Steven",2023,Associate Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Green,John",2023,Professor,,1,1,Psychological Science,1,,,,,231174,,2024-01-01
+"Greenblatt, Marc",2023,Professor,,1,0,Medicine,0,,,,,231174,,2024-01-01
+"Guber, Deborah",2023,Professor,,1,0,Political Science,0,,,,,231174,,2024-01-01
+"Gustafson,Melanie",2023,Professor,,1,0,History,0,,,,,231174,But she did work on https://www.uvm.edu/cas/history/profile/melanie-s-gustafson,2024-01-01
+"Haines, Shana",2023,Associate Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Halladay, Juliet",2023,Associate Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Harlow,Seth",2023,Associate Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Harp, Randall",2023,Associate Professor,,1,0,Philosophy,0,,,,,231174,,2024-01-01
+"Harrington,Donna Theresa",2023,Associate Professor,,1,0,Economics,0,,,,,231174,,2024-01-01
+"Harrington,Susanmarie",2023,Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Hausheer, Robin",2023,Associate Professor,,1,0,"Counseling, Human Development and Family Science",0,,,,,231174,But she received a large NIH grant to study bullying,2024-01-01
+"Heil,Sarah",2023,Professor,,1,0,Psychological Science,0,,,,,231174,,2024-01-01
+"Heiss,Sarah",2023,Associate Professor,,1,0,Community Development and Applied Economics,0,,,,,231174,,2024-01-01
+"Henne,Peter",2023,Associate Professor,,1,1,Political Science,0,,,,,231174,,2024-01-01
+"Higa,Paula",2023,Assistant Professor,,1,0,Theatre and Dance,0,,,,,231174,,2024-01-01
+"Holmes, Chris",2023,Professor,,1,0,Medicine,0,,,,,231174,,2024-01-01
+"Holmes, Gregory",2023,Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Holmes,Lisa",2023,Associate Professor,,1,0,Political Science,0,,,,,231174,,2024-01-01
+"Holt, Brett",2023,Associate Professor,,1,1,Education,0,,,,,231174,,2024-01-01
+"Hopkins, William",2023,Associate Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Horbar,Jeffrey",2023,Professor,,1,1,Pediatrics,0,,,,,231174,,2024-01-01
+"Huener,Jonathan",2023,Professor,,1,1,History,0,,,,,231174,,2024-01-01
+"Huh,Jinny",2023,Associate Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Hummel,Maria",2023,Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Hurley, Jennifer",2023,Associate Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Hurley, Sean",2023,Associate Professor,,1,1,Education,0,,,,,231174,,2024-01-01
+"Huston,Dryver",2023,Professor,,1,1,Mechanical Engineering,0,,,,,231174,,2024-01-01
+"Hutchins, Tiffany",2023,Associate Professor,,1,0,Communication Sciences and Disorders,0,,,,,231174,,2024-01-01
+"Ikeda,Kyle",2023,Associate Professor,,1,1,East Asian Languages and Literatures,0,,,,,231174,,2024-01-01
+"Irvin, Charles",2023,Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Jiron,Haley",2023,Associate Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Jones, David",2023,Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Jorgenson, Simon",2023,Associate Professor,,1,1,Education,0,,,,,231174,,2024-01-01
+"Joshi, Aishwarya",2023,Assistant Professor,,1,0,"Counseling, Human Development and Family Science",0,,,,,231174,,2024-01-01
+"Julien, Patricia",2023,Professor,,1,0,Music,0,,,,,231174,,2024-01-01
+"Kaelber,Lutz",2023,Associate Professor,,1,1,Sociology,0,,,,,231174,,2024-01-01
+"Kahn-Fogel,Daniel",2023,Professor,,1,1,English,0,,,,,231174,,2024-01-01
+"Kaminsky,David",2023,Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Kasser, Susan",2023,Professor,,1,0,Rehabilitation and Movement Science,0,,,,,231174,,2024-01-01
+"Kent,Jane",2023,Professor,,1,0,Art and Art History,0,,,,,231174,,2024-01-01
+"Kervick, Colby",2023,Associate Professor,,1,0,Education,0,,,,,231174,but associated with https://site.uvm.edu/restorativepractices/,2024-01-01
+"Kete,Mary",2023,Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Khadanga, Sherrie",2023,Assistant Professor,,1,0,Medicine,0,,,,,231174,,2024-01-01
+"Kinsey, Charles",2023,Associate Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Klepeis, Keith",2023,Professor,,1,1,Geography and Geosciences,0,,,,,231174,but he says my students and I are interested... https://www.uvm.edu/~kklepeis/Student_Opportunities/in_Structural_Geology_and_Tectonics.html,2024-01-01
+"Knodell,Jane",2023,Professor,,1,0,Economics,0,,,,,231174,,2024-01-01
+"Knodler,Leigh",2023,Associate Professor,,1,0,Microbiology and Molecular Genetics,0,,,,,231174,,2024-01-01
+"Kojzar, Christopher",2023,Assistant Professor,,1,1,Art and Art History,0,,,,,231174,,2024-01-01
+"Kooperkamp,Hannah",2023,Associate Professor,,1,0,Surgery,0,,,,,231174,,2024-01-01
+"Kosiba, Alexandra",2023,Professor,,1,0,Rubenstein School of Environment and Natural Resources,0,,,,,231174,,2024-01-01
+"Kotov, Valeri",2023,Assistant Professor,,1,1,Physics,0,,,,,231174,,2024-01-01
+"Koulouris, Carolyn",2023,Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Krag,David",2023,Associate Professor,,1,1,Medicine,0,,,,,231174,but see https://www.vermontpublic.org/show/vermont-edition/2025-03-11/a-uvm-team-is-creating-a-massive-database-of-research-about-opioid-use-disorder,2024-01-01
+"Krag,Martin",2023,Professor,,1,1,Orthopaedics and Rehabilitation,0,,,,,231174,,2024-01-01
+"Krauthamer, Gunter",2023,Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Lai,Jennifer",2023,Assistant Professor,,1,0,Sociology,0,,,,,231174,,2024-01-01
+"Lakoba, Taras",2023,Professor,,1,1,Mathematics and Statistics,0,,,,,231174,,2024-01-01
+"Landry, Christopher",2023,Professor,,1,1,Chemistry,0,,,,,231174,,2024-01-01
+"Laurent, Jennifer",2023,Professor,,1,0,Nursing,0,,,,,231174,,2024-01-01
+"Law,Marc",2023,Professor,,1,1,Economics,0,,,,,231174,,2024-01-01
+"Lee,Byung",2023,Professor,,1,1,Computer Science,0,,,,,231174,,2024-01-01
+"Lehner, Ace",2023,Assistant Professor,,1,1,Art and Art History,0,,,,,231174,,2024-01-01
+"Lewis, Laura",2023,Assistant Professor,,1,0,Nursing,0,,,,,231174,,2024-01-01
+"Lidofsky,Steven",2023,Professor,,1,1,Medicine; Biochemistry,0,,,,,231174,,2024-01-01
+"Lindstrom,Eric",2023,Professor,,1,1,English,0,,,,,231174,,2024-01-01
+"Loeb, Don",2023,Associate Professor,,1,1,Philosophy,0,,,,,231174,,2024-01-01
+"Lopez-Vicuna, Ignacio",2023,Associate Professor,,1,1,Spanish,0,,,,,231174,,2024-01-01
+"Losambe,Lokangaka",2023,Professor,,1,1,English,0,,,,,231174,,2024-01-01
+"Lounsbury, Karen",2023,Professor,,1,0,Pharmacology,0,,,,,231174,,2024-01-01
+"Lowensohn,Suzanne",2023,Associate Professor,,1,0,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Lucas,Marilyn",2023,Associate Professor,,1,0,Grossman School of Business,1,,,,,231174,,2024-01-01
+"Ly,Minh",2023,Assistant Professor,,1,1,Political Science,0,,,,,231174,,2024-01-01
+"Ma,Jihong",2023,Assistant Professor,,1,0,Mechanical Engineering,1,,,https://site.uvm.edu/jama/?page_id=128,,231174,,2024-01-01
+"Madalengoitia,Jose",2023,Associate Professor,,1,1,Chemistry,1,,,,,231174,,2024-01-01
+"Magistrale, Anthony",2023,Professor,,1,1,English,0,,,,,231174,,2024-01-01
+"Mares, Teresa",2023,Associate Professor,,1,0,Anthropology,0,,,,,231174,,2024-01-01
+"Marsden,Ellen",2023,Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,a5010447871,https://www.researchgate.net/lab/J-Ellen-Marsden-Lab,,231174,,2024-01-01
+"Marshall,Jeffrey",2023,Professor,,1,1,Mechanical Engineering,1,,,https://site.uvm.edu/jmarsha1/,,231174,,2024-01-01
+"Martorelli Di Genova,Bruno",2023,Assistant Professor,,1,1,Microbiology and Molecular Genetics,1,,,,,231174,,2024-01-01
+"Massell,David",2023,Professor,,1,1,History,0,,,,,231174,,2024-01-01
+"Mawe, Gary",2023,Professor,,1,1,Pharmacology; Medicine,0,,,,,231174,there is a note in his obit about a lab but i couldn't find any links,2024-01-01
+"May, Victor",2023,Professor,,1,1,Neurological Sciences,1,,,,,231174,,2024-01-01
+"Mayo, Cris",2023,Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Mays,Kate",2023,Assistant Professor,,1,0,Community Development and Applied Economics,0,,,,,231174,,2024-01-01
+"Mazzoni, Mariacristina",2023,Professor,,1,0,French and Italian,0,,,,,231174,,2024-01-01
+"McCluskey,Matthew",2023,Assistant Professor,,1,1,Education,0,,,,,231174,,2024-01-01
+"McCullough,Robert",2023,Professor,,1,0,History,0,,,,,231174,,2024-01-01
+"McDowell, William",2023,Professor,,1,1,Art and Art History,0,,,,,231174,,2024-01-01
+"McGowan, Todd",2023,Professor,,1,1,English,0,,,,,231174,,2024-01-01
+"Melekis,Kelly",2023,Associate Professor,,1,0,Social Work,0,,,,,231174,,2024-01-01
+"Meyer, Lori",2023,Associate Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Meyer,Marjorie",2023,Professor,,1,0,"Obstetrics, Gynecology and Reproductive Sciences",0,,,,,231174,,2024-01-01
+"Michelson,James",2023,Professor,,1,1,Orthopaedics and Rehabilitation,1,,a5065232848,https://www.researchgate.net/lab/James-Michelson-Lab,,231174,,2024-01-01
+"Mierse, William",2023,Professor,,1,1,Art and Art History,0,,,,,231174,,2024-01-01
+"Miller Eismeier, Stephen",2023,Assistant Professor,,1,1,Mathematics and Statistics,0,,,,,231174,,2024-01-01
+"Miller, Eleanor",2023,Professor,,1,0,Sociology,0,,,,,231174,,2024-01-01
+"Molofsky,Jane",2023,Professor,,1,0,Plant Biology,0,,,,,231174,,2024-01-01
+"Monsen,Erik",2023,Associate Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Morales,Ana",2023,Assistant Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,a5051112540,https://www.vermontlimnology.com/about,,231174,"she is the acting director of the lab, but other profs are part of it.",2024-01-01
+"Morand-Metivier, Charles-Louis",2023,Associate Professor,,1,1,French and Italian,0,,,,,231174,,2024-01-01
+"Morelli,Kathryn",2023,Assistant Professor ,,1,0,Neurological Sciences,1,,,,,231174,,2024-01-01
+"Morgan - Parmett, Helen",2023,Associate Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Morgenstein Fuerst,Ilyse",2023,Associate Professor,,1,0,Religion,0,,,,,231174,,2024-01-01
+"Morin,Frederick",2023,Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Morse, Cheryl",2023,Associate Professor,,1,0,Geography and Geosciences,0,,,,,231174,but she has really cool projects going on: https://www.cherylmorse.com/rural-mobility.html,2024-01-01
+"Mosher, Brittany",2023,Assistant Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,a5082413587,https://werl-uvm.mystrikingly.com/#people,,231174,,2024-01-01
+"Moyer,Mark",2023,Associate Professor,,1,1,Philosophy,0,,,,,231174,,2024-01-01
+"Murdoch,James",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,0,,,,,231174,no group but see https://www.jdmurdoch.com/,2024-01-01
+"Murray-Close, Dianna",2023,Professor,,1,0,Psychological Science,1,,a5004322781,https://site.uvm.edu/socldevl/?page_id=64,,231174,,2024-01-01
+"Mutha,Akshay",2023,Associate Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Nallasamy,Shanmugasundaram",2023,Assistant Professor,,1,1,"Obstetrics, Gynecology and Reproductive Sciences",1,,a5085056433,https://www.uvm.edu/cals/asci/profile/shanmugasundaram-nallasamy-dvm-phd,,231174,,2024-01-01
+"Nelson, Mark",2023,Professor,,1,1,Pharmacology,1,15,a5048090770,https://www.nelsonlaboratory.com/our-team,1989,231174,"more like a center than an actual lab. In his team, there are profs with their own group. Also see where the money comes from https://www.med.uvm.edu/pharmacology/research/totman_medical_research_trust_funding_research",2024-01-01
+"Nelson,Ingrid",2023,Associate Professor,,1,0,Geography and Geosciences,0,,,,,231174,,2024-01-01
+"Neroni, Hilary",2023,Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Neumann,Maureen",2023,Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Nilsen,Sarah",2023,Associate Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Nolfi, Katherine",2023,Associate Professor,,1,0,Philosophy,0,,,,,231174,,2024-01-01
+"Noordewier, Thomas",2023,Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Northey,Kaitlin",2023,Assistant Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Novak,David",2023,Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Nunley, Gayle",2023,Associate Professor,,1,0,Spanish,0,,,,,231174,,2024-01-01
+"Olson,Nels",2023,Assistant Professor,,1,1,Pathology and Laboratory Medicine,0,,,,,231174,,2024-01-01
+"Onaolapo,Jeremiah",2023,Assistant Professor,,1,1,Computer Science,0,,,,,231174,,2024-01-01
+"Ossareh, Hamid - Reza",2023,Associate Professor,,1,1,Electrical and Biomedical Engineering,0,,,,,231174,,2024-01-01
+"Osten,Sarah",2023,Associate Professor,,1,0,History,0,,,,,231174,but she might have nice data to look at https://www.sarahosten.com/teaching,2024-01-01
+"Palumbo,Mary",2023,Professor,,1,0,Nursing,1,,a5006192874,https://www.researchgate.net/lab/Mary-Val-Palumbo-Lab,,231174,,2024-01-01
+"Panikkar,Bindu",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,,https://www.researchgate.net/lab/Bindu-Panikkar-Lab,,231174,,2024-01-01
+"Patania, Alice",2023,Assistant Professor,,1,0,Mathematics and Statistics,0,,,,,231174,,2024-01-01
+"Perkins, Timothy",2023,Research Professor,,1,1,Plant Biology,0,,,,,231174,he ran the proctor maple research center for a long time https://www.themaplenews.com/story/uvm-names-new-director-of-proctor-maple-research-center/522/ ,2024-01-01
+"Peters, Denise",2023,Assistant Professor,,1,0,Rehabilitation and Movement Science,1,,,https://mainlab.wixsite.com/mainlab,,231174,,2024-01-01
+"Petrillo,Jane",2023,Associate Professor,,1,0,Community Development and Applied Economics,0,,,,,231174,,2024-01-01
+"Phelps,Nicole",2023,Professor,,1,1,History,0,,,,,231174,,2024-01-01
+"Pinder, George",2023,Professor,,1,1,Civil and Environmental Engineering; Mathematics and Statistics,0,,,,,231174,,2024-01-01
+"Pinel,Elizabeth",2023,Professor,,1,0,Psychological Science,1,,,https://www.uvm.edu/cas/psychology/profile/elizabeth-pinel,,231174,"claims to have a lab, but nowhere to be seen.",2024-01-01
+"Pirone,John",2023,Assistant Professor,,1,1,Education,0,,,,,231174,,2024-01-01
+"Plante, Mark",2023,Professor,,1,1,Surgery,0,,,,,231174,,2024-01-01
+"Pope,Elizabeth",2023,Associate Professor,,1,0,Nutrition and Food Sciences,1,,,https://site.uvm.edu/efpope/?page_id=45,,231174,,2024-01-01
+"Poynter,Matthew",2023,Professor,,1,1,Medicine,1,,,,,231174,,2024-01-01
+"Preston,Jill",2023,Professor,,1,0,Plant Biology,1,,,https://jillpreston.weebly.com/people.html,,231174,,2024-01-01
+"Previs,Michael",2023,Assistant Professor,,1,1,Molecular Physiology and Biophysics,1,,,https://sites.google.com/view/mprevis/people,,231174,,2024-01-01
+"Prevost, Andrew",2023,Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Proulx, Christine",2023,Associate Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Pucci, Paolo",2023,Associate Professor,,1,1,French and Italian,0,,,,,231174,,2024-01-01
+"Putney, Jennifer",2023,Associate Professor,,1,0,Social Work,0,,,,,231174,,2024-01-01
+"Rayback, Shelly",2023,Professor,,1,0,Geography and Geosciences,0,,,,,231174,"No lab, but she co-founded https://www.uvm.edu/femc/dendro. They do quants work on dendrochronology.",2024-01-01
+"Raymond,Leigh",2023,Professor,,1,1,Political Science,0,,,,,231174,,2024-01-01
+"Reblin, Maija",2023,Associate Professor,,1,0,Family Medicine,0,,,,,231174,associated with the Vermont Conversation lab (https://maijareblin.weebly.com/publications--projects.html) and the care lab (https://labpages2.moffitt.org/care/people/),2024-01-01
+"Rellini, Alessandra",2023,Associate Professor,,1,0,Psychological Science,1,,,,,231174,mention of research group https://www.uvm.edu/~shrc/Training.html,2024-01-01
+"Reynolds, Travis",2023,Associate Professor,,1,1,Community Development and Applied Economics,0,,,,,231174,associated with https://epar.evans.uw.edu/,2024-01-01
+"Ricketts, Taylor",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1,,,https://www.rickettslab.com/people,,231174,,2024-01-01
+"Rizzo, Donna",2023,Professor,,1,0,Civil and Environmental Engineering,0,,,,,231174,,2024-01-01
+"Roberts,Steven",2023,Associate Professor,,1,1,Microbiology and Molecular Genetics,0,,,,,231174,,2024-01-01
+"Rodriguez, Guillermo",2023,Associate Professor,,1,1,Linguistics,0,,,,,231174,,2024-01-01
+"Rohan, Kelly",2023,Professor,,1,0,Psychological Science,1,,,https://www.uvm.edu/cas/psychology/seasonal-affective-disorder,,231174,,2024-01-01
+"Rohy, Valerie",2023,Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Rombach,Michaela",2023,Assistant Professor,,1,0,Mathematics and Statistics,0,,,,,231174,,2024-01-01
+"Rowangould, Dana",2023,Assistant Professor,,1,0,Civil and Environmental Engineering,0,,,,,231174,Associated with the https://www.uvm.edu/cems/trc/current-students,2024-01-01
+"Roy,Eric",2023,Associate Professor,,1,1,Rubenstein School of Environment and Natural Resources,1,,,https://nced.weebly.com/team.html,,231174,,2024-01-01
+"Salame,Zeina",2023,Assistant Professor,,1,0,Theatre and Dance,0,,,,,231174,,2024-01-01
+"Salogiannis,John",2023,Assistant Professor,,1,1,Molecular Physiology and Biophysics,1,,,https://sites.google.com/view/salogiannis-lab/people,,231174,,2024-01-01
+"Sansoz,Frederic",2023,Professor,,1,1,Mechanical Engineering,1,,,https://site.uvm.edu/FredericSansoz/people/,,231174,,2024-01-01
+"Schermerhorn,Alice",2023,Associate Professor,,1,0,Psychological Science,1,,,https://www.uvm.edu/~ascherme/people/,,231174,,2024-01-01
+"Schneider,David",2023,Professor,,1,1,Medicine,1,,,https://www.researchgate.net/lab/David-John-Schneider-Lab,,231174,,2024-01-01
+"Schnell,Lisa",2023,Associate Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Schnitzlein, Charles",2023,Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Schrafstetter,Susanna",2023,Professor,,1,0,History,0,,,,,231174,,2024-01-01
+"Schreckenberger, Helga",2023,Professor,,1,0,"German, Russian, and Hebrew",0,,,,,231174,,2024-01-01
+"Scollins, Kathleen",2023,Associate Professor,,1,0,"German, Russian, and Hebrew",0,,,,,231174,,2024-01-01
+"Scott, Helen",2023,Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Selao, Ching",2023,Associate Professor,,1,0,French and Italian,0,,,,,231174,,2024-01-01
+"Seward,David",2023,Assistant Professor,,1,1,Pathology and Laboratory Medicine,1,,,https://dseward.w3.uvm.edu/templatepage2.html,,231174,,2024-01-01
+"Shaffer,Jonathan",2023,Assistant Professor,,1,1,Sociology,0,,,,,231174,,2024-01-01
+"Sharma,Pramodita",2023,Professor,,1,0,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Shea,Jeanne",2023,Associate Professor,,1,0,Anthropology,0,,,,,231174,,2024-01-01
+"Sherwin,Nikki",2023,Professor,,1,0,Sociology,0,,,,,231174,,2024-01-01
+"Shimko,Robert",2023,Associate Professor,,1,1,Theatre and Dance,0,,,,,231174,,2024-01-01
+"Shrum, Trisha",2023,Assistant Professor,,1,0,Community Development and Applied Economics,0,,,,,231174,but she is a cofounder of https://www.deartomorrow.org/about/advisory/,2024-01-01
+"Sicotte,Richard",2023,Associate Professor,,1,1,Economics,0,,,,,231174,,2024-01-01
+"Sigmon,Stacey",2023,Professor,,1,0,Psychological Science,0,,,,,231174,but she is the head of https://www.uvmcora.org/our-team/,2024-01-01
+"Sirkel,Riin",2023,Associate Professor,,1,0,Philosophy,0,,,,,231174,,2024-01-01
+"Sisk,Jennifer",2023,Associate Professor,,1,0,English,0,,,,,231174,,2024-01-01
+"Skalka, Christian",2023,Professor,,1,1,Computer Science,0,,,,,231174,but he is the director of https://compsec.w3.uvm.edu/,2024-01-01
+"Skinner,Roy",2023,Assistant Professor,,1,1,Pharmacology,1,,,https://www.ramplab.org/people,,231174,he has a nice cat,2024-01-01
+"Smith, Carmen",2023,Associate Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Smith,Bikki",2023,Assistant Professor,,1,0,Biomedical and Health Sciences,0,,,,,231174,,2024-01-01
+"Smith,Julia",2023,Research Professor,,1,0,Animal and Veterinary Sciences,0,,,,,231174,but she is the director of https://www.secureagriculture.org/,2024-01-01
+"Smith,Lance",2023,Associate Professor,,1,1,"Counseling, Human Development and Family Science",0,,,,,231174,cofounder of https://site.uvm.edu/restorativepractices/,2024-01-01
+"Soll, Roger",2023,Professor,,1,1,Pediatrics,0,,,,,231174,,2024-01-01
+"Solnick,Sara",2023,Associate Professor,,1,0,Economics,0,,,,,231174,,2024-01-01
+"Solomon, Brenda",2023,Associate Professor,,1,0,Social Work,0,,,,,231174,,2024-01-01
+"Spees,Jeffrey",2023,Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Sprague, Brian",2023,Professor,,1,1,Surgery; Radiology; Biochemistry,0,,,,,231174,but he is director of https://www.uvm.edu/larnermed/uvmcancercenter/population-sciences-and-cancer-outcomes,2024-01-01
+"Stafford,James",2023,Assistant Professor,,1,1,Neurological Sciences,1,,,,,231174,couldn't find is group url,2024-01-01
+"Stapleton, Renee",2023,Professor,,1,0,Medicine,0,,,,,231174,,2024-01-01
+"Stark, Kristabel",2023,Assistant Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Starrett,Mark",2023,Associate Professor,,1,1,"Agriculture, Landscape, and Environment",0,,,,,231174,,2024-01-01
+"Steinberg,Jonah",2023,Associate Professor,,1,1,Anthropology,0,,,,,231174,,2024-01-01
+"Steinweis, Alan",2023,Professor,,1,1,History,0,,,,,231174,,2024-01-01
+"Stevens,Lori",2023,Professor,,1,0,Biology,0,,,,,231174,,2024-01-01
+"Stewart, Alexander",2023,Professor,,1,1,Music,0,,,,,231174,,2024-01-01
+"Stickle, Timothy",2023,Associate Professor,,1,1,Psychological Science,1,,,,,231174,,2024-01-01
+"Stilwell,Sean",2023,Professor,,1,1,History,0,,,,,231174,,2024-01-01
+"Stockwell,Jason",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,0,,,,,231174,but part of the https://www.uvm.edu/rsenr/rubensteinlab/faculty,2024-01-01
+"Stokowski,Patricia",2023,Professor,,1,0,Rubenstein School of Environment and Natural Resources,0,,,,,231174,,2024-01-01
+"Strickler,Jennifer",2023,Associate Professor,,1,0,Sociology,0,,,,,231174,,2024-01-01
+"Strolin,Jessica",2023,Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Stumpff,Jason",2023,Associate Professor,,1,1,Molecular Physiology and Biophysics,1,,,https://physioweb.uvm.edu/stumpff-lab/lab-members/,,231174,,2024-01-01
+"Sullivan,E. Thomas",2023,Professor,,1,1,Political Science,0,,,,,231174,,2024-01-01
+"Sutherland, Daniella",2023,Associate Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Svolos,Lampros",2023,Assistant Professor,,1,1,Civil and Environmental Engineering,0,,,,,231174,,2024-01-01
+"Swanson,Bridget",2023,Assistant Professor,,1,0,"German, Russian, and Hebrew",0,,,,,231174,,2024-01-01
+"Tarbi,Elise",2023,Assistant Professor,,1,0,Nursing,0,,,,,231174,,2024-01-01
+"Taylor,Robert",2023,Professor,,1,1,Political Science,0,,,,,231174,,2024-01-01
+"Testo, Weston",2023,Assistant Professor,,1,1,Plant Biology,1,,,,,231174,,2024-01-01
+"Teuscher, Cory",2023,Professor,,1,1,Medicine,1,,,https://www.researchgate.net/lab/Cory-Teuscher-Lab,,231174,,2024-01-01
+"Thacker,Nancy",2023,Assistant Professor,,1,0,"Counseling, Human Development and Family Science",0,,,,,231174,,2024-01-01
+"Thali,Markus",2023,Professor,,1,1,Microbiology and Molecular Genetics,1,,,https://www.med.uvm.edu/mmg/faculty/markus-thali-ph-d,,231174,,2024-01-01
+"Thompson,Nathaniel",2023,Assistant Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Tierney,Mary",2023,Associate Professor,,1,0,Plant Biology,1,,,https://www.uvm.edu/~mtierney/Labmembers.html,,231174,,2024-01-01
+"Tobin,Daniel",2023,Associate Professor,,1,1,Community Development and Applied Economics,0,,,,,231174,,2024-01-01
+"Todd, Travis",2023,Assistant Professor,,1,1,Psychological Science,1,,,https://www.todd-lab.org/personnel,,231174,,2024-01-01
+"Tomas III, Michael",2023,Associate Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Tompkins, Connie",2023,Associate Professor,,1,0,Rehabilitation and Movement Science,0,,,,,231174,,2024-01-01
+"Toner Jr.,D.",2023,Professor,,1,1,Music,0,,,,,231174,,2024-01-01
+"Toth,Michael",2023,Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"Tourville, Timothy",2023,Associate Professor,,1,1,Rehabilitation and Movement Science,0,,,,,231174,,2024-01-01
+"Tracy,Russell",2023,Professor,,1,1,Pathology and Laboratory Medicine,1,,,http://www.med.uvm.edu/lcbr/about,,231174,,2024-01-01
+"Tranmer,Bruce",2023,Professor,,1,1,Surgery,0,,,,,231174,,2024-01-01
+"Trubek, Amy",2023,Professor,,1,0,Nutrition and Food Sciences,0,,,,,231174,,2024-01-01
+"Trybus, Kathleen",2023,Professor,,1,0,Molecular Physiology and Biophysics,0,,,,,231174,,2024-01-01
+"Uddin,M. Salim",2023,Assistant Professor,,1,1,Rubenstein School of Environment and Natural Resources,0,,,,,231174,,2024-01-01
+"Ukhov, Andrey",2023,Associate Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Usher, Mark",2023,Professor,,1,1,Geography and Geosciences,0,,,,,231174,,2024-01-01
+"Van Buren,Peter",2023,Associate Professor,,1,1,Medicine,0,,,,,231174,,2024-01-01
+"van den Broek-Altenburg, Eline",2023,Assistant Professor,,1,0,Radiology,0,,,,,231174,,2024-01-01
+"van der Vliet, Albert",2023,Professor,,1,1,Pathology and Laboratory Medicine,1,,,https://www.med.uvm.edu/pathology/van-der-vliet-lab,,231174,,2024-01-01
+"Van Keuren, Scott",2023,Associate Professor,,1,1,Anthropology,0,,,,,231174,,2024-01-01
+"Vanden Bergh, Richard",2023,Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Vannest, Kimberly",2023,Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Velez, Christine",2023,Assistant Professor,,1,0,Social Work,0,,,,,231174,,2024-01-01
+"Venugopal, Srinivas",2023,Associate Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Vincent, Christelle",2023,Assistant Professor,,1,0,Mathematics and Statistics,0,,,,,231174,,2024-01-01
+"Visser, Thomas",2023,Professor,,1,1,History,0,,,,,231174,,2024-01-01
+"Vivanco, Luis",2023,Professor,,1,1,Anthropology,0,,,,,231174,,2024-01-01
+"Vizcarra, Catalina",2023,Associate Professor,,1,0,Economics,0,,,,,231174,,2024-01-01
+"Vizzard,Margaret",2023,Professor,,1,0,Neurological Sciences,1,,,https://www.med.uvm.edu/neuro/vizzard_lab,,231174,,2024-01-01
+"VonDoepp,Peter",2023,Professor,,1,1,Political Science,0,,,,,231174,,2024-01-01
+"Walberg, Glenn",2023,Associate Professor,,1,1,Grossman School of Business,0,,,,,231174,,2024-01-01
+"Waldron,John",2023,Associate Professor,,1,1,Spanish,0,,,,,231174,,2024-01-01
+"Walker,Pamela",2023,Assistant Professor,,1,0,History,0,,,,,231174,,2024-01-01
+"Walls,Leon",2023,Associate Professor,,1,1,Education,0,,,,,231174,,2024-01-01
+"Wang, Qingbin",2023,Professor,,1,1,Community Development and Applied Economics,0,,,,,231174,,2024-01-01
+"Ward, Gary",2023,Professor,,1,1,Microbiology and Molecular Genetics,1,,,https://wardlab.us/,,231174,,2024-01-01
+"Wargo,Matthew",2023,Associate Professor,,1,1,Microbiology and Molecular Genetics,1,,,https://www.med.uvm.edu/mmg/faculty/matt-wargo-ph-dd,,231174,,2024-01-01
+"Warrington, Gregory",2023,Professor,,1,1,Mathematics and Statistics,0,,,,,231174,,2024-01-01
+"Warshaw,David",2023,Professor,,1,1,Molecular Physiology and Biophysics,1,,,https://physioweb.uvm.edu/warshaw-lab/people/,,231174,,2024-01-01
+"Waterman,Rory",2023,Professor,,1,1,Chemistry,0,,,,,231174,,2024-01-01
+"Webb,Laura",2023,Professor,,1,0,Geography and Geosciences,0,,,https://sites.google.com/site/laurawebbuvmgeology/home/students,,231174,,2024-01-01
+"Weiner, Matthew",2023,Associate Professor,,1,1,Philosophy,0,,,,,231174,,2024-01-01
+"Weinstock,Jacqueline",2023,Associate Professor,,1,0,"Counseling, Human Development and Family Science",0,,,,,231174,,2024-01-01
+"Wellman, George",2023,Professor,,1,1,Pharmacology,1,,,https://www.med.uvm.edu/pharmacology/wellmanlab,,231174,,2024-01-01
+"Wemple,Beverley",2023,Professor,Beverley Wemple,1,0,Rubenstein School of Environment and Natural Resources,1,,A5024754042,https://blog.uvm.edu/bwemple/research-group/,1997,231174,,2024-01-01
+"Wengrovius, Carissa",2023,Assistant Professor,,1,0,Rehabilitation and Movement Science,0,,,,,231174,,2024-01-01
+"White, Matthew",2023,Associate Professor,,1,1,Physics,0,,,,,231174,,2024-01-01
+"Willard-Foster,Melissa",2023,Associate Professor,,1,0,Political Science,0,,,,,231174,,2024-01-01
+"Williams,Brittany",2023,Assistant Professor,,1,0,Education,0,,,,,231174,,2024-01-01
+"Wilson,James",2023,Professor,,1,1,Mathematics and Statistics,0,,,,,231174,,2024-01-01
+"Woolson, Maria",2023,Assistant Professor,,1,0,Spanish,0,,,,,231174,,2024-01-01
