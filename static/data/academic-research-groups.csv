@@ -12,7 +12,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Dixon, Anne",2023,Professor,,1,0,Medicine,0,,A5070720713,,1990.0,231174,,2024-01-01,Larner College of Medicine
 "Cipolla,Marilyn",2023,Professor,,1,0,Neurological Sciences; Electrical and Biomedical Engineering,1,,A5074235895,https://www.med.uvm.edu/neuro/cipolla_lab/people,1999.0,231174,,2024-01-01,Larner College of Medicine
 "Berger, Christopher",2023,Professor,Christopher L. Berger,1,1,Molecular Physiology and Biophysics,0,,A5075679004,,,231174,,2024-01-01,Larner College of Medicine
-"Bernstein, David",2023,Assistant Professor,,1,1,Electrical and Biomedical Engineering,0,,A5076884495,https://www.uvm.edu/cems/ebe/research-highlights,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
+"Bernstein, David",2023,Assistant Professor,,1,1,Electrical and Biomedical Engineering,0,,A5076884495,https://www.uvm.edu/cems/ebe/research-highlights,1978.0,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Barlow,John",2023,Associate Professor,,1,1,Animal and Veterinary Sciences,0,,A5077572554,,1997.0,231174,,2024-01-01,College of Agriculture and Life Sciences
 "Stein,Janet",2023,Professor,,1,0,Biochemistry,1,,A5081119848,https://www.med.uvm.edu/biochemistry/steinlianlab/home,1974.0,231174,,2024-01-01,College of Agriculture and Life Sciences
 "Arambula Turner, Tracy",2023,Associate Professor,,1,0,Education,0,,A5087146071,,2012.0,231174,,2024-01-01,College of Education and Social Services
@@ -69,7 +69,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Deming, Paula",2023,Associate Professor,,1,1,Biomedical and Health Sciences,1,,A5030675455,,,231174,,2024-01-01,College of Nursing and Health Sciences
 "Feldman,Jan",2023,Professor,Jan Feldman,1,0,Political Science,0,,A5108290966,,,231174,,2024-01-01,College of Arts and Sciences
 "Bernard,Emily",2023,Professor,Emily Bernard,1,0,English,0,,A5031469576,,,231174,,2024-01-01,College of Arts and Sciences
-"Scarborough,Matthew",2023,Assistant Professor,,1,1,Civil and Environmental Engineering,1,,A5031617048,https://www.emerglab.org/home/our-team,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
+"Scarborough,Matthew",2023,Assistant Professor,,1,1,Civil and Environmental Engineering,1,,A5031617048,https://www.emerglab.org/home/our-team,2012.0,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Mendez, Victor",2023,Professor,,1,1,"Agriculture, Landscape, and Environment",1,,A5031789321,https://www.researchgate.net/lab/V-Ernesto-Mendez-Lab,,231174,,2024-01-01,College of Agriculture and Life Sciences
 "Angelopoulos, Theodore",2023,Professor,Theodore J. Angelopoulos,1,1,Rehabilitation and Movement Science,0,,A5033621367,,,231174,,2024-01-01,College of Nursing and Health Sciences
 "Francklyn, Christopher",2023,Professor,,1,1,Biochemistry,1,,A5033892718,https://www.med.uvm.edu/biochemistry/lab_francklyn_research,,231174,,2024-01-01,College of Agriculture and Life Sciences
@@ -117,7 +117,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Near,Joseph",2023,Assistant Professor,,1,1,Computer Science,0,,A5061707651,https://www.uvm.edu/~jnear/#students,,231174,but associated with https://compsec.w3.uvm.edu/,2024-01-01,College of Engineering and Mathematical Sciences
 "Bagrow,James",2023,Associate Professor,James P. Bagrow,1,1,Mathematics and Statistics,1,,A5062403203,https://bagrow.com/people/,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Morielli, Anthony",2023,Associate Professor,Anthony D. Morielli,1,1,Pharmacology,0,,A5062626999,,,231174,,2024-01-01,Larner College of Medicine
-"Langevin, Scott",2023,Associate Professor,,1,1,Medicine,1,,A5062946342,https://www.researchgate.net/lab/Langevin-lab-Scott-M-Langevin,,231174,,2024-01-01,Larner College of Medicine
+"Langevin, Scott",2023,Associate Professor,,1,1,Medicine,1,,A5062946342,https://www.researchgate.net/lab/Langevin-lab-Scott-M-Langevin,2006.0,231174,,2024-01-01,Larner College of Medicine
 "Anathy, Vikas",2023,Professor,,1,1,Pathology and Laboratory Medicine,1,,A5063274084,https://www.med.uvm.edu/pathology/anathylab_new,,231174,,2024-01-01,Larner College of Medicine
 "Bradshaw, Terence",2023,Associate Professor,,1,1,"Agriculture, Landscape, and Environment",0,,A5063690586,,,231174,No groups but he is really good at farming https://blog.uvm.edu/tbradsha/,2024-01-01,College of Agriculture and Life Sciences
 "Crocker, Abigail",2023,Associate Professor,Abigail Crocker,1,0,Mathematics and Statistics,0,,A5063968442,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
@@ -146,7 +146,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Ahmmad,Zobayer",2023,Assistant Professor,,1,1,Sociology,0,,A5077733558,,,231174,,2024-01-01,College of Arts and Sciences
 "Bessette,Jean",2023,Associate Professor,,1,0,English,0,,A5078189369,,,231174,,2024-01-01,College of Arts and Sciences
 "Liptak,Matthew",2023,Professor,,1,1,Chemistry,1,,A5078803587,https://mliptak.w3.uvm.edu/people.html,,231174,,2024-01-01,College of Arts and Sciences
-"Gould, Rachelle",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,A5079985070,https://gouldgroup.weebly.com/people.html,,231174,,2024-01-01,Rubenstein School of Environment and Natural Resources
+"Gould, Rachelle",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,A5079985070,https://gouldgroup.weebly.com/people.html,2011.0,231174,,2024-01-01,Rubenstein School of Environment and Natural Resources
 "Niles, Meredith",2023,Associate Professor,Meredith T. Niles,1,0,Nutrition and Food Sciences,1,,A5047780964,https://www.meredithtniles.com/students,,231174,,2024-01-01,College of Agriculture and Life Sciences
 "Kelm,Robert",2023,Associate Professor,,1,1,Biochemistry,1,,A5080873801,https://www.med.uvm.edu/biochemistry/lab_kelm_labmembers,,231174,,2024-01-01,College of Agriculture and Life Sciences
 "Delaney, Terrence",2023,Associate Professor,Terrence P. Delaney,1,1,Plant Biology,1,,A5081523526,https://www.uvm.edu/~tpdelane/lab/people.html,,231174,,2024-01-01,College of Agriculture and Life Sciences
@@ -193,7 +193,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Dubief, Yves",2023,Associate Professor,,1,1,Mechanical Engineering,0,,A5070620133,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Dupuy, Taylor",2023,Assistant Professor,,1,1,Mathematics and Statistics,0,,A5030917395,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Eberhardt, Maeve",2023,Associate Professor,,1,0,Linguistics,0,,A5059719469,,,231174,,2024-01-01,College of Arts and Sciences
-"Ehret,Danielle",2023,Associate Professor,,1,0,Pediatrics,0,,A5037266520,,,231174,,2024-01-01,Larner College of Medicine
+"Ehret,Danielle",2023,Associate Professor,,1,0,Pediatrics,0,,A5037266520,,2018.0,231174,,2024-01-01,Larner College of Medicine
 "Elliott,Anna",2023,Associate Professor,,1,0,"Counseling, Human Development and Family Science",0,,A5061421163,,,231174,no group but see https://site.uvm.edu/restorativepractices/,2024-01-01,College of Education and Social Services
 "Ellis, Deborah",2023,Professor,,1,0,English,0,,,,,231174,,2024-01-01,College of Arts and Sciences
 "Emery,Meaghan",2023,Associate Professor,,1,0,French and Italian,0,,A5014136538,,,231174,,2024-01-01,College of Arts and Sciences
@@ -212,7 +212,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Fothergill, Alice",2023,Professor,,1,0,Sociology,0,,A5044848272,,,231174,,2024-01-01,College of Arts and Sciences
 "Franklin,John",2023,Professor,,1,1,Classics,0,,A5108425548,,2000.0,231174,,2024-01-01,College of Arts and Sciences
 "Fraser,Pamela",2023,Associate Professor,,1,1,Theatre and Dance,0,,,,,231174,,2024-01-01,College of Arts and Sciences
-"Frolik,Jeff",2023,Professor,,1,1,Electrical and Biomedical Engineering,1,,A5067954811,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
+"Frolik,Jeff",2023,Professor,,1,1,Electrical and Biomedical Engineering,1,,A5067954811,,1995.0,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Gamble,Edward",2023,Assistant Professor,,1,1,Grossman School of Business,0,,A5002938039,,2010.0,231174,,2024-01-01,Grossman School of Business
 "Garcia, Luis",2023,Professor,,1,1,Civil and Environmental Engineering,0,,A5084851307,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Garlick,Alexander",2023,Assistant Professor,,1,1,Political Science,0,,A5045120152,,,231174,,2024-01-01,College of Arts and Sciences
@@ -220,7 +220,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Garvey,Jason",2023,Associate Professor,,1,1,Education,0,,A5001245542,,2012.0,231174,,2024-01-01,College of Education and Social Services
 "Garwood,Justin",2023,Associate Professor,,1,1,Education,0,,A5026487010,,,231174,,2024-01-01,College of Education and Social Services
 "Gell, Nancy",2023,Associate Professor,,1,0,Rehabilitation and Movement Science,0,,A5086079811,,,231174,,2024-01-01,College of Nursing and Health Sciences
-"Gennari,John",2023,Professor,,1,1,English,0,,A5010618664,,,231174,,2024-01-01,College of Arts and Sciences
+"Gennari,John",2023,Professor,,1,1,English,0,,A5010618664,,1982.0,231174,,2024-01-01,College of Arts and Sciences
 "Ghazanfari, Ehsan",2023,Associate Professor,,1,1,Civil and Environmental Engineering,0,,A5052593365,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Gierzynski,Anthony",2023,Professor,,1,1,Political Science,0,,A5013043006,,,231174,,2024-01-01,College of Arts and Sciences
 "Gilmartin, Gregory",2023,Associate Professor,,1,1,Microbiology and Molecular Genetics,0,,A5013564199,,,231174,,2024-01-01,College of Agriculture and Life Sciences
@@ -234,7 +234,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Greenblatt, Marc",2023,Professor,,1,0,Medicine,0,,A5062036186,,1996.0,231174,,2024-01-01,Larner College of Medicine
 "Guber, Deborah",2023,Professor,,1,0,Political Science,0,,A5020234815,,,231174,,2024-01-01,College of Arts and Sciences
 "Gustafson,Melanie",2023,Professor,,1,0,History,0,,A5074237910,,,231174,But she did work on https://www.uvm.edu/cas/history/profile/melanie-s-gustafson,2024-01-01,College of Arts and Sciences
-"Haines, Shana",2023,Associate Professor,,1,0,Education,0,,A5053710203,,,231174,,2024-01-01,College of Education and Social Services
+"Haines, Shana",2023,Associate Professor,,1,0,Education,0,,A5053710203,,2011.0,231174,,2024-01-01,College of Education and Social Services
 "Halladay, Juliet",2023,Associate Professor,,1,0,Education,0,,A5030492411,,,231174,,2024-01-01,College of Education and Social Services
 "Harlow,Seth",2023,Associate Professor,,1,1,Medicine,0,,A5111948049,,,231174,,2024-01-01,Larner College of Medicine
 "Harp, Randall",2023,Associate Professor,,1,0,Philosophy,0,,A5021330226,,,231174,,2024-01-01,College of Arts and Sciences
@@ -249,7 +249,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Holmes, Gregory",2023,Professor,,1,1,Medicine,0,,A5103091290,,1987.0,231174,,2024-01-01,Larner College of Medicine
 "Holmes,Lisa",2023,Associate Professor,,1,0,Political Science,0,,A5015166762,,1992.0,231174,,2024-01-01,College of Arts and Sciences
 "Holt, Brett",2023,Associate Professor,,1,1,Education,0,,A5026070860,,,231174,,2024-01-01,College of Education and Social Services
-"Hopkins, William",2023,Associate Professor,,1,1,Medicine,0,,A5061416701,,,231174,,2024-01-01,Larner College of Medicine
+"Hopkins, William",2023,Associate Professor,,1,1,Medicine,0,,A5061416701,,1971.0,231174,,2024-01-01,Larner College of Medicine
 "Horbar,Jeffrey",2023,Professor,,1,1,Pediatrics,0,,A5005007403,,,231174,,2024-01-01,Larner College of Medicine
 "Huener,Jonathan",2023,Professor,,1,1,History,0,,A5065893111,,,231174,,2024-01-01,College of Arts and Sciences
 "Huh,Jinny",2023,Associate Professor,,1,0,English,0,,A5080432803,,,231174,,2024-01-01,College of Arts and Sciences
@@ -259,7 +259,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Huston,Dryver",2023,Professor,,1,1,Mechanical Engineering,0,,A5040093787,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Hutchins, Tiffany",2023,Associate Professor,,1,0,Communication Sciences and Disorders,0,,A5043056368,,2005.0,231174,,2024-01-01,College of Nursing and Health Sciences
 "Ikeda,Kyle",2023,Associate Professor,,1,1,East Asian Languages and Literatures,0,,A5006226210,,1997.0,231174,,2024-01-01,College of Arts and Sciences
-"Irvin, Charles",2023,Professor,,1,1,Medicine,0,,A5070636215,,,231174,,2024-01-01,Larner College of Medicine
+"Irvin, Charles",2023,Professor,,1,1,Medicine,0,,A5070636215,,1978.0,231174,,2024-01-01,Larner College of Medicine
 "Jiron,Haley",2023,Associate Professor,,1,0,Education,0,,A5035012054,,,231174,,2024-01-01,College of Education and Social Services
 "Jones, David",2023,Professor,,1,1,Grossman School of Business,0,,A5078241836,,,231174,,2024-01-01,Grossman School of Business
 "Jorgenson, Simon",2023,Associate Professor,,1,1,Education,0,,A5074417466,,,231174,,2024-01-01,College of Education and Social Services
@@ -267,8 +267,8 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Julien, Patricia",2023,Professor,,1,0,Music,0,,,,,231174,,2024-01-01,College of Arts and Sciences
 "Kaelber,Lutz",2023,Associate Professor,,1,1,Sociology,0,,A5111368648,,,231174,,2024-01-01,College of Arts and Sciences
 "Kahn-Fogel,Daniel",2023,Professor,,1,1,English,0,,,,,231174,,2024-01-01,College of Arts and Sciences
-"Kaminsky,David",2023,Professor,,1,1,Medicine,0,,A5035139969,,,231174,,2024-01-01,Larner College of Medicine
-"Kasser, Susan",2023,Professor,,1,0,Rehabilitation and Movement Science,0,,A5031375896,,,231174,,2024-01-01,College of Nursing and Health Sciences
+"Kaminsky,David",2023,Professor,,1,1,Medicine,0,,A5035139969,,1993.0,231174,,2024-01-01,Larner College of Medicine
+"Kasser, Susan",2023,Professor,,1,0,Rehabilitation and Movement Science,0,,A5031375896,,1994.0,231174,,2024-01-01,College of Nursing and Health Sciences
 "Kent,Jane",2023,Professor,,1,0,Art and Art History,0,,,,,231174,,2024-01-01,College of Arts and Sciences
 "Kervick, Colby",2023,Associate Professor,,1,0,Education,0,,A5070269784,,,231174,but associated with https://site.uvm.edu/restorativepractices/,2024-01-01,College of Education and Social Services
 "Kete,Mary",2023,Professor,,1,0,English,0,,A5036480316,,,231174,,2024-01-01,College of Arts and Sciences
@@ -288,7 +288,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Lai,Jennifer",2023,Assistant Professor,,1,0,Sociology,0,,A5076488821,,,231174,,2024-01-01,College of Arts and Sciences
 "Lakoba, Taras",2023,Professor,,1,1,Mathematics and Statistics,0,,A5003790316,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Landry, Christopher",2023,Professor,,1,1,Chemistry,0,,A5085598401,,,231174,,2024-01-01,College of Arts and Sciences
-"Laurent, Jennifer",2023,Professor,,1,0,Nursing,0,,A5019561597,,,231174,,2024-01-01,College of Nursing and Health Sciences
+"Laurent, Jennifer",2023,Professor,,1,0,Nursing,0,,A5019561597,,2013.0,231174,,2024-01-01,College of Nursing and Health Sciences
 "Law,Marc",2023,Professor,,1,1,Economics,0,,A5035530956,,,231174,,2024-01-01,College of Arts and Sciences
 "Lee,Byung",2023,Professor,,1,1,Computer Science,0,,A5038390659,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Lehner, Ace",2023,Assistant Professor,,1,1,Art and Art History,0,,A5042501964,,,231174,,2024-01-01,College of Arts and Sciences
@@ -332,7 +332,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Morelli,Kathryn",2023,Assistant Professor ,,1,0,Neurological Sciences,1,,A5030492411,,,231174,,2024-01-01,Larner College of Medicine
 "Morgan - Parmett, Helen",2023,Associate Professor,,1,0,English,0,,A5012972298,,,231174,,2024-01-01,College of Arts and Sciences
 "Morgenstein Fuerst,Ilyse",2023,Associate Professor,,1,0,Religion,0,,A5080856771,,,231174,,2024-01-01,College of Arts and Sciences
-"Morin,Frederick",2023,Professor,,1,1,Medicine,0,,A5087008416,,,231174,,2024-01-01,Larner College of Medicine
+"Morin,Frederick",2023,Professor,,1,1,Medicine,0,,A5087008416,,1976.0,231174,,2024-01-01,Larner College of Medicine
 "Morse, Cheryl",2023,Associate Professor,,1,0,Geography and Geosciences,0,,A5026798646,,,231174,but she has really cool projects going on: https://www.cherylmorse.com/rural-mobility.html,2024-01-01,College of Arts and Sciences
 "Mosher, Brittany",2023,Assistant Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,A5082413587,https://werl-uvm.mystrikingly.com/#people,,231174,,2024-01-01,Rubenstein School of Environment and Natural Resources
 "Moyer,Mark",2023,Associate Professor,,1,1,Philosophy,0,,A5077830526,,,231174,,2024-01-01,College of Arts and Sciences
@@ -354,14 +354,14 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Ossareh, Hamid - Reza",2023,Associate Professor,,1,1,Electrical and Biomedical Engineering,0,,A5030492411,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Osten,Sarah",2023,Associate Professor,,1,0,History,0,,A5028493230,,2012.0,231174,but she might have nice data to look at https://www.sarahosten.com/teaching,2024-01-01,College of Arts and Sciences
 "Palumbo,Mary",2023,Professor,,1,0,Nursing,1,,A5006192874,https://www.researchgate.net/lab/Mary-Val-Palumbo-Lab,,231174,,2024-01-01,College of Nursing and Health Sciences
-"Panikkar,Bindu",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,A5004281105,https://www.researchgate.net/lab/Bindu-Panikkar-Lab,,231174,,2024-01-01,Rubenstein School of Environment and Natural Resources
+"Panikkar,Bindu",2023,Associate Professor,,1,0,Rubenstein School of Environment and Natural Resources,1,,A5004281105,https://www.researchgate.net/lab/Bindu-Panikkar-Lab,2005.0,231174,,2024-01-01,Rubenstein School of Environment and Natural Resources
 "Patania, Alice",2023,Assistant Professor,,1,0,Mathematics and Statistics,0,,A5068687626,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Perkins, Timothy",2023,Research Professor,,1,1,Plant Biology,0,,A5033687607,,,231174,he ran the proctor maple research center for a long time https://www.themaplenews.com/story/uvm-names-new-director-of-proctor-maple-research-center/522/ ,2024-01-01,College of Agriculture and Life Sciences
 "Peters, Denise",2023,Assistant Professor,,1,0,Rehabilitation and Movement Science,1,,A5044301064,https://mainlab.wixsite.com/mainlab,,231174,,2024-01-01,College of Nursing and Health Sciences
 "Petrillo,Jane",2023,Associate Professor,,1,0,Community Development and Applied Economics,0,,A5030492411,,,231174,,2024-01-01,College of Agriculture and Life Sciences
 "Phelps,Nicole",2023,Professor,,1,1,History,0,,A5012779276,,,231174,,2024-01-01,College of Arts and Sciences
-"Pinder, George",2023,Professor,,1,1,Civil and Environmental Engineering; Mathematics and Statistics,0,,A5041501487,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
-"Pinel,Elizabeth",2023,Professor,,1,0,Psychological Science,1,,A5086123703,https://www.uvm.edu/cas/psychology/profile/elizabeth-pinel,,231174,"claims to have a lab, but nowhere to be seen.",2024-01-01,College of Arts and Sciences
+"Pinder, George",2023,Professor,,1,1,Civil and Environmental Engineering; Mathematics and Statistics,0,,A5041501487,,1968.0,231174,,2024-01-01,College of Engineering and Mathematical Sciences
+"Pinel,Elizabeth",2023,Professor,,1,0,Psychological Science,1,,A5086123703,https://www.uvm.edu/cas/psychology/profile/elizabeth-pinel,1992.0,231174,"claims to have a lab, but nowhere to be seen.",2024-01-01,College of Arts and Sciences
 "Pirone,John",2023,Assistant Professor,,1,1,Education,0,,A5015717393,,,231174,,2024-01-01,College of Education and Social Services
 "Plante, Mark",2023,Professor,,1,1,Surgery,0,,A5083752076,,,231174,,2024-01-01,Larner College of Medicine
 "Pope,Elizabeth",2023,Associate Professor,,1,0,Nutrition and Food Sciences,1,,A5090040147,https://site.uvm.edu/efpope/?page_id=45,,231174,,2024-01-01,College of Agriculture and Life Sciences
@@ -369,8 +369,8 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Preston,Jill",2023,Professor,,1,0,Plant Biology,1,,A5062917746,https://jillpreston.weebly.com/people.html,2000.0,231174,,2024-01-01,College of Agriculture and Life Sciences
 "Previs,Michael",2023,Assistant Professor,,1,1,Molecular Physiology and Biophysics,1,,A5065493839,https://sites.google.com/view/mprevis/people,,231174,,2024-01-01,Larner College of Medicine
 "Prevost, Andrew",2023,Professor,,1,1,Grossman School of Business,0,,A5004803781,,,231174,,2024-01-01,Grossman School of Business
-"Proulx, Christine",2023,Associate Professor,,1,0,Education,0,,A5072094717,,,231174,,2024-01-01,College of Education and Social Services
-"Pucci, Paolo",2023,Associate Professor,,1,1,French and Italian,0,,A5068443321,,,231174,,2024-01-01,College of Arts and Sciences
+"Proulx, Christine",2023,Associate Professor,,1,0,Education,0,,A5072094717,,2004.0,231174,,2024-01-01,College of Education and Social Services
+"Pucci, Paolo",2023,Associate Professor,,1,1,French and Italian,0,,A5068443321,,1973.0,231174,,2024-01-01,College of Arts and Sciences
 "Putney, Jennifer",2023,Associate Professor,,1,0,Social Work,0,,A5028605843,,,231174,,2024-01-01,College of Education and Social Services
 "Rayback, Shelly",2023,Professor,,1,0,Geography and Geosciences,0,,A5074473836,,1998.0,231174,"No lab, but she co-founded https://www.uvm.edu/femc/dendro. They do quants work on dendrochronology.",2024-01-01,College of Arts and Sciences
 "Raymond,Leigh",2023,Professor,,1,1,Political Science,0,,A5050041251,,,231174,,2024-01-01,College of Arts and Sciences
@@ -379,7 +379,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Reynolds, Travis",2023,Associate Professor,,1,1,Community Development and Applied Economics,0,,A5038002277,,,231174,associated with https://epar.evans.uw.edu/,2024-01-01,College of Agriculture and Life Sciences
 "Ricketts, Taylor",2023,Professor,,1,1,Rubenstein School of Environment and Natural Resources,1,,A5009887999,https://www.rickettslab.com/people,,231174,,2024-01-01,Rubenstein School of Environment and Natural Resources
 "Rizzo, Donna",2023,Professor,,1,0,Civil and Environmental Engineering,0,,A5074921180,,1994.0,231174,,2024-01-01,College of Engineering and Mathematical Sciences
-"Roberts,Steven",2023,Associate Professor,,1,1,Microbiology and Molecular Genetics,0,,A5045510214,,,231174,,2024-01-01,College of Agriculture and Life Sciences
+"Roberts,Steven",2023,Associate Professor,,1,1,Microbiology and Molecular Genetics,0,,A5045510214,,2007.0,231174,,2024-01-01,College of Agriculture and Life Sciences
 "Rodriguez, Guillermo",2023,Associate Professor,,1,1,Linguistics,0,,A5055957925,,2007.0,231174,,2024-01-01,College of Arts and Sciences
 "Rohan, Kelly",2023,Professor,,1,0,Psychological Science,1,,A5012655235,https://www.uvm.edu/cas/psychology/seasonal-affective-disorder,,231174,,2024-01-01,College of Arts and Sciences
 "Rohy, Valerie",2023,Professor,,1,0,English,0,,A5000276219,,,231174,,2024-01-01,College of Arts and Sciences
@@ -401,7 +401,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Seward,David",2023,Assistant Professor,,1,1,Pathology and Laboratory Medicine,1,,A5035428725,https://dseward.w3.uvm.edu/templatepage2.html,,231174,,2024-01-01,Larner College of Medicine
 "Shaffer,Jonathan",2023,Assistant Professor,,1,1,Sociology,0,,A5103003380,,2008.0,231174,,2024-01-01,College of Arts and Sciences
 "Sharma,Pramodita",2023,Professor,,1,0,Grossman School of Business,0,,A5101088703,,,231174,,2024-01-01,Grossman School of Business
-"Shea,Jeanne",2023,Associate Professor,,1,0,Anthropology,0,,A5004819450,,,231174,,2024-01-01,College of Arts and Sciences
+"Shea,Jeanne",2023,Associate Professor,,1,0,Anthropology,0,,A5004819450,,1998.0,231174,,2024-01-01,College of Arts and Sciences
 "Sherwin,Nikki",2023,Professor,,1,0,Sociology,0,,,,,231174,,2024-01-01,College of Arts and Sciences
 "Shimko,Robert",2023,Associate Professor,,1,1,Theatre and Dance,0,,,,,231174,,2024-01-01,College of Arts and Sciences
 "Shrum, Trisha",2023,Assistant Professor,,1,0,Community Development and Applied Economics,0,,A5067618467,,,231174,but she is a cofounder of https://www.deartomorrow.org/about/advisory/,2024-01-01,College of Agriculture and Life Sciences
@@ -413,7 +413,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Skinner,Roy",2023,Assistant Professor,,1,1,Pharmacology,1,,A5048360757,https://www.ramplab.org/people,2016.0,231174,he has a nice cat,2024-01-01,Larner College of Medicine
 "Smith, Carmen",2023,Associate Professor,,1,0,Education,0,,A5028684427,,,231174,,2024-01-01,College of Education and Social Services
 "Smith,Bikki",2023,Assistant Professor,,1,0,Biomedical and Health Sciences,0,,A5012860813,,,231174,,2024-01-01,College of Nursing and Health Sciences
-"Smith,Julia",2023,Research Professor,,1,0,Animal and Veterinary Sciences,0,,A5007986837,,,231174,but she is the director of https://www.secureagriculture.org/,2024-01-01,College of Agriculture and Life Sciences
+"Smith,Julia",2023,Research Professor,,1,0,Animal and Veterinary Sciences,0,,A5007986837,,1976.0,231174,but she is the director of https://www.secureagriculture.org/,2024-01-01,College of Agriculture and Life Sciences
 "Smith,Lance",2023,Associate Professor,,1,1,"Counseling, Human Development and Family Science",0,,A5012882269,,2008.0,231174,cofounder of https://site.uvm.edu/restorativepractices/,2024-01-01,College of Education and Social Services
 "Soll, Roger",2023,Professor,,1,1,Pediatrics,0,,A5036299725,,,231174,,2024-01-01,Larner College of Medicine
 "Solnick,Sara",2023,Associate Professor,,1,0,Economics,0,,A5041775115,,,231174,,2024-01-01,College of Arts and Sciences
@@ -438,7 +438,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Sullivan,E. Thomas",2023,Professor,,1,1,Political Science,0,,A5060151674,,2002.0,231174,,2024-01-01,College of Arts and Sciences
 "Sutherland, Daniella",2023,Associate Professor,,1,0,Education,0,,A5072928156,,,231174,,2024-01-01,College of Education and Social Services
 "Svolos,Lampros",2023,Assistant Professor,,1,1,Civil and Environmental Engineering,0,,A5069269002,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
-"Swanson,Bridget",2023,Assistant Professor,,1,0,"German, Russian, and Hebrew",0,,A5032396604,,,231174,,2024-01-01,College of Arts and Sciences
+"Swanson,Bridget",2023,Assistant Professor,,1,0,"German, Russian, and Hebrew",0,,A5032396604,,2017.0,231174,,2024-01-01,College of Arts and Sciences
 "Tarbi,Elise",2023,Assistant Professor,,1,0,Nursing,0,,A5017118759,,,231174,,2024-01-01,College of Nursing and Health Sciences
 "Taylor,Robert",2023,Professor,,1,1,Political Science,0,,A5030492411,,,231174,,2024-01-01,College of Arts and Sciences
 "Testo, Weston",2023,Assistant Professor,,1,1,Plant Biology,1,,A5013803370,,,231174,,2024-01-01,College of Agriculture and Life Sciences
@@ -468,7 +468,7 @@ payroll_name,payroll_year,position,oa_display_name,is_prof,perceived_as_male,hos
 "Vanden Bergh, Richard",2023,Professor,,1,1,Grossman School of Business,0,,A5016004440,,,231174,,2024-01-01,Grossman School of Business
 "Vannest, Kimberly",2023,Professor,,1,0,Education,0,,A5019189598,,,231174,,2024-01-01,College of Education and Social Services
 "Velez, Christine",2023,Assistant Professor,,1,0,Social Work,0,,A5017793254,,2016.0,231174,,2024-01-01,College of Education and Social Services
-"Venugopal, Srinivas",2023,Associate Professor,,1,1,Grossman School of Business,0,,A5015014450,,,231174,,2024-01-01,Grossman School of Business
+"Venugopal, Srinivas",2023,Associate Professor,,1,1,Grossman School of Business,0,,A5015014450,,2010.0,231174,,2024-01-01,Grossman School of Business
 "Vincent, Christelle",2023,Assistant Professor,,1,0,Mathematics and Statistics,0,,A5014425101,,,231174,,2024-01-01,College of Engineering and Mathematical Sciences
 "Visser, Thomas",2023,Professor,,1,1,History,0,,A5030492411,,,231174,,2024-01-01,College of Arts and Sciences
 "Vivanco, Luis",2023,Professor,,1,1,Anthropology,0,,A5066174666,,,231174,,2024-01-01,College of Arts and Sciences

@@ -275,16 +275,18 @@ def run_complete_cleaning_pipeline(papers_df, faculty_df):
 
 # Example usage:
 faculty_df = pd.read_csv("../static/data/academic-research-groups.csv")
-papers_df = pd.read_parquet("../../complex-stories/static/data/open-academic-analytics/paper.parquet")
 
-known_first_year = faculty_df[~faculty_df.first_pub_year.isna()]
+paper_file = "../../complex-stories/src/lib/stories/open-academic-analytics/data/raw/paper.parquet"
+papers_df = pd.read_parquet(paper_file)
 
 oa_uid2first_year={row.oa_uid:row.first_pub_year for (i,row) in faculty_df[['oa_uid', 'first_pub_year']].iterrows()}
 
 out = []
+# for all papers, check if we have faculty_first_year. 
 for i, row in papers_df.iterrows():
     faculty_first_year = oa_uid2first_year.get(row.ego_aid)
 
+    # If we do, filter out any paper before that.
     if faculty_first_year is not None:
         if row.pub_year < faculty_first_year:
             continue
@@ -299,6 +301,7 @@ faculty_cleaned, analysis_results = run_complete_cleaning_pipeline(papers_df, fa
 
 # Review cases flagged for manual review
 manual_review = analysis_results[analysis_results['cleaning_action'] == 'flag_for_manual_review']
+
 print("Cases requiring manual review:")
 print(manual_review[['name', 'recommendation', 'reasoning', 'max_gap']])
 
@@ -529,6 +532,8 @@ def quick_review_faculty(ego_aid, papers_df, faculty_df):
 # First, run the gap analysis
 analysis_df = analyze_publication_gaps(papers_df, faculty_df)
 analysis_df = create_cleaning_recommendations(analysis_df)
+
+analysis_df[analysis_df.ego_aid == 'A5072094717']
 
 # Then run interactive review
 faculty_cleaned, corrections = run_interactive_cleaning(analysis_df, papers_df, faculty_df)
